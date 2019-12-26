@@ -57,9 +57,9 @@ Section 420 of the Student Conduct Code describes academic misconduct as includi
 
 Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services as soon as possible.
 
-### Class Schedule
+## Class Schedule
 
-#### Introduction: Git, R Studio, Data Wrangling, and Data Viz
+### Introduction: Git, R Studio, Data Wrangling, and Data Viz
 ##### Week One
 - Monday January 13: 
 
@@ -74,7 +74,7 @@ Federal law mandates the provision of services at the university-level to qualif
 
 - Friday January 24:
 
-#### Linear Regression
+### Linear Regression
 ##### Week Three
 - Monday January 27:
 
@@ -105,6 +105,7 @@ Federal law mandates the provision of services at the university-level to qualif
 - Wednesday February 19:
 
 - Friday February 21:
+
 
 ##### Week Seven
 
