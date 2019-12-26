@@ -59,107 +59,136 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ### Class Schedule
 
-#### Introduction: Git, R Studio, Spatial Data Structures, and Data Viz
-- Thursday January 10: 
-    - [Lecture 1 - Course Overview](https://stat534.github.io/Lecture1/)
+#### Introduction: Git, R Studio, Data Wrangling, and Data Viz
+##### Week One
+- Monday January 13: 
 
-- Tuesday January 15:
-    - Quiz 1 due: [link](https://stat534.github.io/Quiz1/) [download](https://classroom.github.com/a/E7XYvjdt)
-    - [Lecture 2 - Git Tutorial](https://stat534.github.io/Lecture2/)
-- Thursday January 17:
-    - [Lecture 3 - Intro to Spatial Data and Distance Calculations](https://stat534.github.io/Lecture3/)
+- Wednesday January 15:
 
-#### Point-Referenced Data
-- Tuesday January 22:
-    - [Lecture 4 - Point Level Models](https://stat534.github.io/Lecture4/)
-    - Quiz 2 due: [link](https://stat534.github.io/Quiz2/) [download](https://classroom.github.com/a/TuTt9k9Q)
-- Tuesday January 24:
-    - [Lecture 5 - Variograms](https://stat534.github.io/Lecture5/)
-    - HW 1 due: [link](https://stat534.github.io/HW1/) [download](https://classroom.github.com/a/2ZlRo1Kd)
+- Friday January 17:
 
-- Tuesday January 29:
-    - [Lecture 6 - EDA](https://stat534.github.io/Lecture6/)
-    - Quiz 3 due: [link](https://stat534.github.io/Quiz3/) [download](https://classroom.github.com/a/O1ab-EVx)
-- Thursday January 31:
-    - [Lecture 7 - EDA and Model Simulation](https://stat534.github.io/Lecture7/)
-    - HW 2 due: [link](https://stat534.github.io/HW2/) [download](https://classroom.github.com/a/GEhiBzmf)
+##### Week Two
+- Monday January 20: __No Class__
 
-- Tuesday February 5:
-    - [Lecture 8 - EDA and Model Fitting](https://stat534.github.io/Lecture8/)
-    - Quiz 4 due: [link](https://stat534.github.io/quiz4/) [download](https://classroom.github.com/a/KGRdSMJw)
-- Thursday February 7:
-    - [Lecture 9 - Model Fitting, cont...](https://stat534.github.io/Lecture9/)
-    - HW 3 due: [link](https://stat534.github.io/HW3/) [download](https://classroom.github.com/a/AS1PLMKi)
-- Tuesday February 12:
-    - [Lecture 10 - Parameter Estimation](https://stat534.github.io/Lecture10/)
-    - Quiz 5 due: [link](https://stat534.github.io/Quiz5/) [download](https://classroom.github.com/a/JA3uVg7Y)
-- Thursday February 14:
-    - [Lecture 11 - Likelihood Based Parameter Estimation](https://stat534.github.io/Lecture11/)
-    - HW 4 due: [link](https://stat534.github.io/HW4/) [download](https://classroom.github.com/a/LIC2hx7P)
-- Tuesday February 19:
-    - [Lecture 12 - Bayesian Model Fitting Demos](https://stat534.github.io/Lecture12/)
-    - Quiz 6 due: [link](https://stat534.github.io/Quiz6/) [download](https://classroom.github.com/a/5i9dCbLg)
-- Thursday February 21:
-    - [Lecture 13 - General Correlation Functions & Anisotropy](https://stat534.github.io/Lecture13/)
-    - HW 5 due: [link](https://stat534.github.io/HW5/) [download](https://classroom.github.com/a/O7hFPdaL)
-- Tuesday February 26:
-    - [Lecture 14 - Spatial GLMs](https://stat534.github.io/Lecture14/)
-    - Quiz 7 due: [link](https://stat534.github.io/Quiz7/) [download](https://classroom.github.com/a/jgvyb2WL)
-- Thursday February 28:
-    - [Lecture 15 - Spatial Prediction and Model Selection](https://stat534.github.io/Lecture15/)
-    - HW 6 due: [link](https://stat534.github.io/HW6/) [download](https://classroom.github.com/a/Eb14rohM) [key](https://github.com/Stat534/HW6/tree/master/docs)
-#### Areal Data
-- Tuesday March 5:
-    - [Lecture 16 - Intro to areal data and areal data viz](https://stat534.github.io/Lecture16/)
-    - Quiz 8 due: [link](https://stat534.github.io/Quiz8/) [download](https://classroom.github.com/a/OPlGsMDS)
-- Thursday March 7:
-    - [Lecture 17 - Exploratory approaches for areal data and Markov random fields]( https://stat534.github.io/Lecture17/)
-    - HW 7 due: [link](https://stat534.github.io/HW7/) [download](https://classroom.github.com/a/OU2Y30AO)
-- Tuesday March 12:
-    - [Lecture 18 - CAR and SAR models]( https://stat534.github.io/Lecture18/)
-    - ~~Quiz 9 due: [link](https://stat534.github.io/Quiz9/) [download](https://classroom.github.com/a/QcLpjZQ1)~~
-- Thursday March 14:
-    - Peer Review Day
-    - HW 8 due: [link](https://stat534.github.io/HW8/) [download](https://classroom.github.com/a/Gtoe1RTQ)
-- Tuesday March 19: *spring break*
-- Thursday March 21: *spring break*    
-#### Midterm Project
-- Tuesday March 26: Project Presentations
+- Wednesday January 22:
 
-- Thursday March 28: Project Presentations
+- Friday January 24:
 
-- Sunday March 31: Written Project Summary Due: [Project Rubric](https://stat534.github.io/MidtermProject/ProjectRubric) [Submission Link](https://classroom.github.com/a/TjGg9KQu)
+#### Linear Regression
+##### Week Three
+- Monday January 27:
 
-#### Areal Data Continued..
-- Tuesday April 2:
-    - [Lecture 19 - Areal Data Models](https://stat534.github.io/Lecture19/)
-- Thursday April 4:
-    - [Lecture 20 - Areal Data Model Fitting](https://stat534.github.io/Lecture20/)
-    - Quiz 10 due: [link](https://stat534.github.io/Quiz10/) [download](https://classroom.github.com/a/R6BBeqfY)
-    
-#### Point Process Data
-- Tuesday April 9:
-    - [Lecture 21 - Point Process](https://github.com/Stat534/Lecture21/blob/master/docs/index.pdf)
-    - Quiz 11 due: [link](https://stat534.github.io/Quiz11/) [download](https://classroom.github.com/a/96n2Ioa0)
-- Thursday April 11:
-    - [Lecture 22 - Point Process](https://github.com/Stat534/Lecture22/blob/master/notes.pdf)
-    - HW 9 due: [link](https://stat534.github.io/HW9/) [download](https://classroom.github.com/a/FtL_dkhG)
-- Tuesday April 16:
-    - [Lecture 23 - K Function and spatstat](https://github.com/Stat534/Lecture23/blob/master/notes.pdf)
-- Thursday April 18:
-    - [Lecture 24 - Modeling Point Process Data](https://github.com/Stat534/Lecture24/blob/master/notes.pdf)
-    - HW 10 due: [link](https://stat534.github.io/HW10/) [download](https://classroom.github.com/a/9F7xzDej)
-- Tuesday April 23:
-    - Lecture 24 - continued
-    - Quiz 13 due: [link](https://stat534.github.io/Quiz13/) [download](https://classroom.github.com/a/HXVTT9d6)
-- Thursday April 24:
-    - [Lecture 25 - Model Fitting / Marked Point Patterns](https://github.com/Stat534/Lecture25/blob/master/key.pdf)
-    - HW 11 due Monday April 29: [link](https://stat534.github.io/HW11/) [download](https://classroom.github.com/a/EWVTLBlk)
+- Wednesday January 29:
 
-#### Final Project
-- Friday May 3:
-    - Written report due 8 AM: [Submission Link](https://classroom.github.com/a/EYyZV28I)
-    - Project Presentations from 2 - 3:50 
+- Friday January 31:
+
+##### Week Four
+
+- Monday February 3:
+
+- Wednesday February 5:
+
+- Friday February 7:
+
+##### Week Five
+
+- Monday February 10:
+
+- Wednesday February 12:
+
+- Friday February 14:
+
+##### Week Six
+
+- Monday February 17: __No Class__
+
+- Wednesday February 19:
+
+- Friday February 21:
+
+##### Week Seven
+
+- Monday February 24:
+
+- Wednesday February 26:
+
+- Friday February 28:
+
+##### Week Eight
+
+- Monday March 2:
+
+- Wednesday March 4:
+
+- Friday March 6:
+
+##### Week Nine
+
+- Monday March 9:
+
+- Wednesday March 11:
+
+- Friday March 13:
+
+##### Week Ten
+
+- Monday March 16: __No Class__
+
+- Wednesday March 18: __No Class__
+
+- Friday March 20: __No Class__
+
+##### Week Eleven
+
+- Monday March 23:
+
+- Wednesday March 25:
+
+- Friday March 27: __No Class__
+
+##### Week Twelve
+
+- Monday March 30:
+
+- Wednesday April 1:
+
+- Friday April 3:
+
+##### Week Thirteen
+
+- Monday April 6:
+
+- Wednesday April 8:
+
+- Friday April 10: __No Class__
+
+##### Week Fourteen
+
+- Monday April 13:
+
+- Wednesday April 15:
+
+- Friday April 17:
+
+##### Week Fifteen
+
+- Monday April 20:
+
+- Wednesday April 22:
+
+- Friday April 24:
+
+##### Week Sixteen
+
+- Monday April 27:
+
+- Wednesday April 29:
+
+- Friday May 1:
+
+
+
+
 
 
 
