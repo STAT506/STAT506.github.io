@@ -1,3 +1,5 @@
+# STAT 506: Advanced Regression Analysis
+
 ## Course Description
 
 This course will introduce linear regression, generalized linear models, and hierarchical models using the software package R. The course will emphasis reproducible research using R Markdown, version control with GitHub, and report writing.
