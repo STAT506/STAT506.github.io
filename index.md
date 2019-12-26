@@ -1,28 +1,23 @@
 ## Course Description
 
-Statistical methods of spatial data analysis, stationary and nonstationary random fields, covariance structures, geostatistical models and analysis, spatial point process models and analysis, spatial lattice models and analysis.
+This course will introduce linear regression, generalized linear models, and hierarchical models using the software package R. The course will emphasis reproducible research using R Markdown, version control with GitHub, and report writing.
 
 ## Learning Outcomes:
-At the end of the course students will be able to:
 
-1. Create maps and other data visualization products with spatial data,
-
-2. Identify differences between the three common spatial data types: point process, point-referenced, and areal data.
-
-3. Use statistical software and either Bayesian or classical statistical techniques to analyze spatial point process, geostatistical, and areal data structures.
-
-4. Implement version control tools, such as git and github, on spatial data analyses.
+- To fit hierarchical models in R and SAS and interpret the results.
+- To fit models which take into account common forms of correlation.
+- To fit models which take into account common forms of non-constant variance.
+- To make inference using models which do not assume normality of residuals.
+- To fit Bayesian models using Markov Chain Monte Carlo algorithms and to interpret results.
 
 ## Prerequisites
 
-- Required: STAT 412, STAT 512, and STAT 422
-- Preferred: STAT 506, extensive experience with R, and an understanding or interest in Bayesian statistics
+- Required: STAT 505
 
 ## Textbooks
 
-- Hierarchical Modeling and Analysis for Spatial Data, Second Edition, by Bannerjee, Carlin, and Gelfand. While the second edition is preferred, the first edition will suffice.
+- _Data Analysis Using Regression and Multilevel/Hierarchical Models_, by Andrew Gelman and Jennifer Hill
 
-- [Geocomputation with R: mapping overview](https://geocompr.robinlovelace.net/adv-map.html)(*optional*) is a freely available book that provides good context on spatial data structure and visualization in R.
 
 ## Additional Resources
 Analysis, data visualization, and version control procedures will be implemented with:
@@ -30,32 +25,38 @@ Analysis, data visualization, and version control procedures will be implemented
 - R / R Studio
 - Git / Github
 
+For additional resources see:
+
+- R for Data Science, [https://r4ds.had.co.nz](https://r4ds.had.co.nz)
+- Happy Git and GitHub for the useR,  [https://happygitwithr.com](https://happygitwithr.com)
+
 ## Course Policies
 
 
 #### Grading Policy
 
-- **15%** of your grade will be determined by weekly quizzes to be completed prior to class on Tuesdays.
+- **25%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. 
 
-- **35%** of your grade will be determined by weekly homework assignments. Collaboration is encouraged on homework assignments, but everyone should complete their own assignments.
+- **25%** of your grade will be determined by a midterm exam. The midterm exam will have two parts: an in class exam and a take home portion. The in class portions will be largely conceptual including  short mathematical derivations. The take home portions will focus on analysis of data and implementation of regression concepts.
 
-- **25%** of your grade will be determined by a midterm project that focuses on point-referenced data. The midterm project will have a written component and an oral presentation and will likely be due the week prior to spring break.
+- **25%** of your grade will be determined by a final exam. The final exam will have two parts: an in class exam and a take home portion. The in class portions will be largely conceptual including mathematical derivations. The take home portions will focus on analysis of data and implementation of regression concepts.
 
-- **25%** of your grade will be determined by a final project that focuses on either areal data or point process data. The final project will have a written component and an oral presentation and will due the finals week.
+- **25%** of your grade will be determined by a series of projects. The projects will be due roughly every 3 - 4 weeks during the course of the semester and may require oral presentations.
 
 
 #### Collaboration
 University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
 
-In this class students are encouraged to collaborate on homework assignments, but quizzes should be completed without collaboration.
+In this class students are encouraged to collaborate on homework assignments, but exams and projects should be completed without collaboration.
 
 
 ####  Academic Misconduct
-Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others' misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
+Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
 
 #### Disabilities Policy
 
-Federal law mandates the provision of services at the university-level to qualified students with disabilities. Make sure to include all that relevant information here.
+Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services as soon as possible.
+
 ### Class Schedule
 
 #### Introduction: Git, R Studio, Spatial Data Structures, and Data Viz
