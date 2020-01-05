@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: STAT 506
 email: andrew.hoegh@montana.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Course materials for STAT506, Advanced Regression Modeling, at Montana State University.
+description: Course materials for STAT506, Advanced Regression Modeling, at Montana State University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  STAT506
