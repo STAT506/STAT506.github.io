@@ -1,4 +1,3 @@
-# STAT 506: Advanced Regression Analysis
 
 ## Course Description
 
