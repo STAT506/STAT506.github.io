@@ -60,7 +60,7 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ## Class Schedule
 
-### Introduction: Git, R Studio, Data Wrangling, and Data Viz
+### Introduction: Git, R Studio, and the Tidyverse
 ##### Week One
 - Monday January 13: [Lecture 1 - Course Overview and Tidyverse Intro](https://stat506.github.io/Lecture1/)
 
@@ -68,15 +68,15 @@ Federal law mandates the provision of services at the university-level to qualif
 
 - Friday January 17: [Lecture 2 - Git Demo](https://stat506.github.io/Lecture2/)
 
+### ANOVA and Linear Regression
 ##### Week Two
 - Monday January 20: __No Class__
-    - HW 1 due
+    - [HW 1 due](https://stat506.github.io/HW1/)
 
 - Wednesday January 22:
 
 - Friday January 24:
 
-### ANOVA and Linear Regression
 ##### Week Three
 - Monday January 27: Tenure Track Assistant Professor Presentation
 
@@ -91,10 +91,12 @@ Federal law mandates the provision of services at the university-level to qualif
 - Wednesday February 5:
 
 - Friday February 7:
+    
 
 ##### Week Five
 
 - Monday February 10:
+    - Project 1 due
 
 - Wednesday February 12:
 
@@ -124,6 +126,7 @@ Federal law mandates the provision of services at the university-level to qualif
 - Wednesday March 4:
 
 - Friday March 6:
+    - Project 2 due
 
 ##### Week Nine
 
@@ -132,6 +135,8 @@ Federal law mandates the provision of services at the university-level to qualif
 - Wednesday March 11:
 
 - Friday March 13:
+    - Midterm In Class Exam
+    - Midterm Takehome Due
 
 ##### Week Ten
 
@@ -183,12 +188,18 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ##### Week Sixteen
 
-- Monday April 27:
+- Monday April 27: Project 3 Presentations
 
-- Wednesday April 29:
+- Wednesday April 29: Project 3 Presentations
 
-- Friday May 1:
+- Friday May 1: Project 3 Presentations
+    - Project 3 due
 
+##### Week Seventeen
+
+- Thursday May 7, 8 - 9:50 AM
+    - In Class Final Exam
+    - Take Home Final Due
 
 
 
