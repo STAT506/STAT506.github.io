@@ -62,11 +62,11 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ### Introduction: Git, R Studio, Data Wrangling, and Data Viz
 ##### Week One
-- Monday January 13: Lecture 1 - Course Overview and Tidyverse Intro
+- Monday January 13: [Lecture 1 - Course Overview and Tidyverse Intro](https://stat506.github.io/Lecture1/)
 
 - Wednesday January 15: Tenure Track Assistant Professor Presentation
 
-- Friday January 17:
+- Friday January 17: Lecture 2 - Git Demo
 
 ##### Week Two
 - Monday January 20: __No Class__
