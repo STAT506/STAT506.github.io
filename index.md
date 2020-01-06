@@ -66,10 +66,11 @@ Federal law mandates the provision of services at the university-level to qualif
 
 - Wednesday January 15: Tenure Track Assistant Professor Presentation
 
-- Friday January 17: Lecture 2 - Git Demo
+- Friday January 17: [Lecture 2 - Git Demo](https://stat506.github.io/Lecture2/)
 
 ##### Week Two
 - Monday January 20: __No Class__
+    - HW 1 due
 
 - Wednesday January 22:
 
