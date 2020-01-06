@@ -79,7 +79,8 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ##### Week Three
 - Monday January 27: Tenure Track Assistant Professor Presentation
-
+    - HW 2 due
+    
 - Wednesday January 29:
 
 - Friday January 31:
@@ -87,7 +88,7 @@ Federal law mandates the provision of services at the university-level to qualif
 ##### Week Four
 
 - Monday February 3:
-
+    - HW 3 due
 - Wednesday February 5:
 
 - Friday February 7:
@@ -97,6 +98,7 @@ Federal law mandates the provision of services at the university-level to qualif
 
 - Monday February 10:
     - Project 1 due
+    - HW 4 due
 
 - Wednesday February 12:
 
@@ -105,6 +107,7 @@ Federal law mandates the provision of services at the university-level to qualif
 ##### Week Six
 
 - Monday February 17: __No Class__
+    - HW 5 due
 
 - Wednesday February 19:
 
@@ -114,6 +117,7 @@ Federal law mandates the provision of services at the university-level to qualif
 ##### Week Seven
 
 - Monday February 24:
+    - HW 6 due
 
 - Wednesday February 26:
 
@@ -122,6 +126,7 @@ Federal law mandates the provision of services at the university-level to qualif
 ##### Week Eight
 
 - Monday March 2:
+    - HW 7 due
 
 - Wednesday March 4:
 
@@ -131,6 +136,7 @@ Federal law mandates the provision of services at the university-level to qualif
 ##### Week Nine
 
 - Monday March 9:
+    - HW 8 due
 
 - Wednesday March 11:
 
@@ -157,6 +163,7 @@ Federal law mandates the provision of services at the university-level to qualif
 ##### Week Twelve
 
 - Monday March 30:
+    - HW 9 due
 
 - Wednesday April 1:
 
@@ -165,6 +172,7 @@ Federal law mandates the provision of services at the university-level to qualif
 ##### Week Thirteen
 
 - Monday April 6:
+    - HW 10 due
 
 - Wednesday April 8:
 
@@ -173,6 +181,7 @@ Federal law mandates the provision of services at the university-level to qualif
 ##### Week Fourteen
 
 - Monday April 13:
+    - HW 11 due
 
 - Wednesday April 15:
 
@@ -181,6 +190,7 @@ Federal law mandates the provision of services at the university-level to qualif
 ##### Week Fifteen
 
 - Monday April 20:
+    - HW 12 due
 
 - Wednesday April 22:
 
@@ -189,6 +199,7 @@ Federal law mandates the provision of services at the university-level to qualif
 ##### Week Sixteen
 
 - Monday April 27: Project 3 Presentations
+    - HW 13 due
 
 - Wednesday April 29: Project 3 Presentations
 
