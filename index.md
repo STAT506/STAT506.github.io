@@ -62,9 +62,9 @@ Federal law mandates the provision of services at the university-level to qualif
 
 ### Introduction: Git, R Studio, Data Wrangling, and Data Viz
 ##### Week One
-- Monday January 13: 
+- Monday January 13: Lecture 1 - Course Overview and Tidyverse Intro
 
-- Wednesday January 15:
+- Wednesday January 15: Tenure Track Assistant Professor Presentation
 
 - Friday January 17:
 
@@ -75,9 +75,9 @@ Federal law mandates the provision of services at the university-level to qualif
 
 - Friday January 24:
 
-### Linear Regression
+### ANOVA and Linear Regression
 ##### Week Three
-- Monday January 27:
+- Monday January 27: Tenure Track Assistant Professor Presentation
 
 - Wednesday January 29:
 
