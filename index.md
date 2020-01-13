@@ -71,7 +71,7 @@ Federal law mandates the provision of services at the university-level to qualif
 ### ANOVA and Linear Regression
 ##### Week Two
 - Monday January 20: __No Class__
-    - [HW 1 due](https://stat506.github.io/HW1/)
+    - [HW 1 due](https://stat506.github.io/HW1/) ([Download HW1 Repo](https://classroom.github.com/a/r7f9ncaD))
 
 - Wednesday January 22:
 
