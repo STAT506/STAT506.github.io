@@ -73,7 +73,7 @@ Federal law mandates the provision of services at the university-level to qualif
 - Monday January 20: __No Class__
     - [HW 1 due](https://stat506.github.io/HW1/) ([Download HW1 Repo](https://classroom.github.com/a/SzNKp3ED))
 
-- Wednesday January 22:
+- Wednesday January 22:[Weekly Lecture Notes](https://github.com/STAT506/Lecture3/blob/master/Intro_506.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture3/blob/master/Intro_506.Rmd))
 
 - Friday January 24:
 
