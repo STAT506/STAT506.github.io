@@ -11,7 +11,7 @@
 ### ANOVA and Linear Regression
 ##### Week Two
 - Monday January 20: __No Class__
-    - [HW 1 due](https://stat506.github.io/HW1/) ([Download HW1 Repo](https://classroom.github.com/a/SzNKp3ED))
+    - ~~[HW 1 due](https://stat506.github.io/HW1/)~~ ([Download HW1 Repo](https://classroom.github.com/a/SzNKp3ED))
 
 - Wednesday January 22:[Weekly Lecture Notes](https://github.com/STAT506/Lecture3/blob/master/Intro_506.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture3/blob/master/Intro_506.Rmd))
 
@@ -19,7 +19,7 @@
 
 ##### Week Three
 - Monday January 27: Tenure Track Assistant Professor Presentation
-    - HW 2 due
+    - HW 1: Part 1 and Part 2 due, add [HW 1 Part 2]( https://stat506.github.io/HW1_Part2/) to HW1 question repo
     
 - Wednesday January 29:
 
