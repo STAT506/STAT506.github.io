@@ -20,6 +20,7 @@
 ##### Week Three
 - Monday January 27: Tenure Track Assistant Professor Presentation
     - HW 1: Part 1 and Part 2 due, add [HW 1 Part 2]( https://stat506.github.io/HW1_Part2/) to HW1 question repo
+    - Weekly Reading: GH Preface and Chapter 1
     
 - Wednesday January 29:
 
@@ -29,6 +30,7 @@
 
 - Monday February 3:
     - HW 2 due
+    - Weekly
 - Wednesday February 5:
 
 - Friday February 7:
