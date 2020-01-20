@@ -28,7 +28,7 @@
 ##### Week Four
 
 - Monday February 3:
-    - HW 3 due
+    - HW 2 due
 - Wednesday February 5:
 
 - Friday February 7:
@@ -37,8 +37,8 @@
 ##### Week Five
 
 - Monday February 10:
-    - Project 1 due
-    - HW 4 due
+    - [Project 1 due](https://stat506.github.io/Project1/)
+    - HW 3 due
 
 - Wednesday February 12:
 
