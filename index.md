@@ -37,7 +37,7 @@
 ##### Week Five
 
 - Monday February 10:
-    - [Project 1 due](https://stat506.github.io/Project1/)
+    - [Project 1 due](https://stat506.github.io/Project1/) ([Download Project 1 Repo](https://classroom.github.com/a/_nJaCFrq))
     - HW 3 due
 
 - Wednesday February 12:
