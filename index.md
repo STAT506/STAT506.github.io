@@ -31,7 +31,7 @@
 ##### Week Four
 
 - Monday February 3:
-    - HW 2 due
+    - [HW 2 due](https://stat506.github.io/HW2/) ([R Markdown Source Code](https://github.com/STAT506/HW2/blob/master/HW2.Rmd)) ([Download HW2 Repo](https://classroom.github.com/a/oQ79buBN))
 
 - Wednesday February 5:
 
