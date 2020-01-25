@@ -44,7 +44,7 @@
 
 - Monday February 10:
     - [Project 1 due](https://stat506.github.io/Project1/) ([Download Project 1 Repo](https://classroom.github.com/a/_nJaCFrq))
-    - HW 3 due
+    - [HW 3 due](https://github.com/STAT506/HW3/blob/master/HW3.md) ([R Markdown Source Code](https://github.com/STAT506/HW3/blob/master/HW3.Rmd))
 
 - Wednesday February 12:
 
@@ -87,8 +87,7 @@
 - Wednesday March 11:
 
 - Friday March 13:
-    - Midterm In Class Exam
-    - Midterm Takehome Due
+   
 
 ##### Week Ten
 
@@ -101,15 +100,18 @@
 ##### Week Eleven
 
 - Monday March 23:
+    - HW 9 due
 
 - Wednesday March 25:
+    - Midterm In Class Exam
 
 - Friday March 27: __No Class__
 
 ##### Week Twelve
 
 - Monday March 30:
-    - HW 9 due
+    - Midterm Takehome Due
+
 
 - Wednesday April 1:
 
