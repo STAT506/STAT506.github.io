@@ -32,6 +32,7 @@
 ##### Week Four
 
 - Monday February 3:
+    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture5/blob/master/CH1_notes.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture5/blob/master/CH1_notes.Rmd))
     - [HW 2 due](https://stat506.github.io/HW2/) ([R Markdown Source Code](https://github.com/STAT506/HW2/blob/master/HW2.Rmd)) ([Download HW2 Repo](https://classroom.github.com/a/oQ79buBN))
 
 - Wednesday February 5:
