@@ -32,6 +32,7 @@
 ##### Week Four
 
 - Monday February 3:
+    - Weekly Reading: Chapter 2
     - [Weekly Lecture Notes](https://github.com/STAT506/Lecture5/blob/master/CH2.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture5/blob/master/CH2.Rmd))
     - [HW 2 due](https://stat506.github.io/HW2/) ([R Markdown Source Code](https://github.com/STAT506/HW2/blob/master/HW2.Rmd)) ([Download HW2 Repo](https://classroom.github.com/a/oQ79buBN))
 
@@ -77,12 +78,12 @@
 - Wednesday March 4:
 
 - Friday March 6:
-    - Project 2 due
 
 ##### Week Nine
 
 - Monday March 9:
     - HW 8 due
+    - Project 2 due
 
 - Wednesday March 11:
 
@@ -111,7 +112,6 @@
 
 - Monday March 30:
     - Midterm Takehome Due
-
 
 - Wednesday April 1:
 
