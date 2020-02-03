@@ -25,7 +25,7 @@
     - Weekly Reading: GH Preface and Chapter 1
     
 - Wednesday January 29:
-    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture4/blob/master/CH1_notes.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture4/blob/master/CH1_notes.Rmd))
+    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture4/blob/master/CH1_notes.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture4/blob/master/CH1_notes.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture3/blob/master/Intro_506_annotated.pdf))
 
 - Friday January 31:
 
