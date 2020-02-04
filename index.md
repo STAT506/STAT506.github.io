@@ -34,9 +34,9 @@
 - Monday February 3:
     - Weekly Reading: Chapter 2
     - [Weekly Lecture Notes](https://github.com/STAT506/Lecture5/blob/master/CH2.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture5/blob/master/CH2.Rmd))
-    - [HW 2 due](https://stat506.github.io/HW2/) ([R Markdown Source Code](https://github.com/STAT506/HW2/blob/master/HW2.Rmd)) ([Download HW2 Repo](https://classroom.github.com/a/oQ79buBN))
 
 - Wednesday February 5:
+    - [HW 2 due](https://stat506.github.io/HW2/) ([R Markdown Source Code](https://github.com/STAT506/HW2/blob/master/HW2.Rmd)) ([Download HW2 Repo](https://classroom.github.com/a/oQ79buBN))
 
 - Friday February 7:
     
@@ -47,18 +47,17 @@
     - Weekly Reading: Chapter 3
     - [Weekly Lecture Notes](https://github.com/STAT506/Lecture6/blob/master/CH3_notes.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture6/blob/master/CH3_notes.Rmd))
     - [Project 1 due](https://stat506.github.io/Project1/) ([Download Project 1 Repo](https://classroom.github.com/a/_nJaCFrq))
-    - [HW 3 due](https://github.com/STAT506/HW3/blob/master/HW3.md) ([R Markdown Source Code](https://github.com/STAT506/HW3/blob/master/HW3.Rmd))
-
+  
 - Wednesday February 12:
-
+  - [HW 3 due](https://github.com/STAT506/HW3/blob/master/HW3.md) ([R Markdown Source Code](https://github.com/STAT506/HW3/blob/master/HW3.Rmd))
 - Friday February 14:
 
 ##### Week Six
 
 - Monday February 17: __No Class__
-    - HW 5 due
 
 - Wednesday February 19:
+    - HW 5 due
 
 - Friday February 21:
 
@@ -66,31 +65,31 @@
 ##### Week Seven
 
 - Monday February 24:
-    - HW 6 due
 
 - Wednesday February 26:
+    - HW 6 due
 
 - Friday February 28:
 
 ##### Week Eight
 
 - Monday March 2:
-    - HW 7 due
 
 - Wednesday March 4:
+    - HW 7 due
 
 - Friday March 6:
 
 ##### Week Nine
 
 - Monday March 9:
-    - HW 8 due
-    - Project 2 due
 
 - Wednesday March 11:
+    - HW 8 due
 
 - Friday March 13:
-   
+    - Project 2 due
+
 
 ##### Week Ten
 
@@ -103,7 +102,6 @@
 ##### Week Eleven
 
 - Monday March 23:
-    - HW 9 due
 
 - Wednesday March 25:
     - Midterm In Class Exam
