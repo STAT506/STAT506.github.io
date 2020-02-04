@@ -44,6 +44,8 @@
 ##### Week Five
 
 - Monday February 10:
+    - Weekly Reading: Chapter 3
+    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture6/blob/master/CH3_notes.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture6/blob/master/CH3_notes.Rmd))
     - [Project 1 due](https://stat506.github.io/Project1/) ([Download Project 1 Repo](https://classroom.github.com/a/_nJaCFrq))
     - [HW 3 due](https://github.com/STAT506/HW3/blob/master/HW3.md) ([R Markdown Source Code](https://github.com/STAT506/HW3/blob/master/HW3.Rmd))
 
