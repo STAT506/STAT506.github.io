@@ -49,7 +49,7 @@
     - [Project 1 due](https://stat506.github.io/Project1/) ([Download Project 1 Repo](https://classroom.github.com/a/_nJaCFrq))
   
 - Wednesday February 12:
-  - [HW 3 due](https://github.com/STAT506/HW3/blob/master/HW3.md) ([R Markdown Source Code](https://github.com/STAT506/HW3/blob/master/HW3.Rmd))
+  - [HW 3 due](https://github.com/STAT506/HW3/blob/master/HW3.md) ([R Markdown Source Code](https://github.com/STAT506/HW3/blob/master/HW3.Rmd)) ([Download HW 3 Repo](https://classroom.github.com/a/NBBXK4vS))
 - Friday February 14:
 
 ##### Week Six
