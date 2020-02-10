@@ -33,7 +33,7 @@
 
 - Monday February 3:
     - Weekly Reading: Chapter 2
-    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture5/blob/master/CH2.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture5/blob/master/CH2.Rmd))
+    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture5/blob/master/CH2.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture5/blob/master/CH2.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture5/blob/master/CH2_annotated.pdf))
 
 - Wednesday February 5:
     - [HW 2 due](https://stat506.github.io/HW2/) ([R Markdown Source Code](https://github.com/STAT506/HW2/blob/master/HW2.Rmd)) ([Download HW2 Repo](https://classroom.github.com/a/oQ79buBN))
