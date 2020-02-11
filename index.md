@@ -57,6 +57,8 @@
 - Monday February 17: __No Class__
 
 - Wednesday February 19:
+    - Weekly Reading: Chapter 4.1 - Chapter 4.3
+    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture7/blob/master/CH4_notes.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture7/blob/master/CH4_notes.Rmd))
     - [HW 4 due](https://stat506.github.io/HW4/) ([Download HW 4 Repo](https://classroom.github.com/a/0fmQczmb))
 
 - Friday February 21:
