@@ -57,7 +57,7 @@
 - Monday February 17: __No Class__
 
 - Wednesday February 19:
-    - HW 5 due
+    - [HW 4 due](https://stat506.github.io/HW4/) ([Download HW 4 Repo](https://classroom.github.com/a/0fmQczmb))
 
 - Friday February 21:
 
@@ -67,7 +67,7 @@
 - Monday February 24:
 
 - Wednesday February 26:
-    - HW 6 due
+    - HW 5 due
 
 - Friday February 28:
 
@@ -76,7 +76,7 @@
 - Monday March 2:
 
 - Wednesday March 4:
-    - HW 7 due
+    - HW 6 due
 
 - Friday March 6:
 
@@ -85,7 +85,7 @@
 - Monday March 9:
 
 - Wednesday March 11:
-    - HW 8 due
+    - HW 7 due
 
 - Friday March 13:
     - Project 2 due
@@ -120,7 +120,7 @@
 ##### Week Thirteen
 
 - Monday April 6:
-    - HW 10 due
+    - HW 8 due
 
 - Wednesday April 8:
 
@@ -129,7 +129,7 @@
 ##### Week Fourteen
 
 - Monday April 13:
-    - HW 11 due
+    - HW 9 due
 
 - Wednesday April 15:
 
@@ -138,7 +138,7 @@
 ##### Week Fifteen
 
 - Monday April 20:
-    - HW 12 due
+    - HW 10 due
 
 - Wednesday April 22:
 
@@ -146,12 +146,12 @@
 
 ##### Week Sixteen
 
-- Monday April 27: Project 3 Presentations
-    - HW 13 due
+- Monday April 27: 
+    - HW 11 due
 
-- Wednesday April 29: Project 3 Presentations
+- Wednesday April 29: 
 
-- Friday May 1: Project 3 Presentations
+- Friday May 1: 
     - Project 3 due
 
 ##### Week Seventeen
