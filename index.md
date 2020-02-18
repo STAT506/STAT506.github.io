@@ -69,7 +69,7 @@
 - Monday February 24:
 
 - Wednesday February 26:
-    - HW 5 due
+    - [HW 5 due](https://stat506.github.io/HW5/) ([Download HW 5 Repo](https://classroom.github.com/a/aTLmrcab))
 
 - Friday February 28:
 
