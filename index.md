@@ -90,7 +90,7 @@
     - HW 7 due
 
 - Friday March 13:
-    - Project 2 due
+    - [Project 2 due](https://stat506.github.io/Project2/)
 
 
 ##### Week Ten
@@ -221,10 +221,3 @@ Section 420 of the Student Conduct Code describes academic misconduct as includi
 #### Disabilities Policy
 
 Federal law mandates the provision of services at the university-level to qualified students with disabilities. If you have a documented disability for which you are or may be requesting an accommodation(s), you are encouraged to contact the Office of Disability Services as soon as possible.
-
-
-
-
-
-
-
