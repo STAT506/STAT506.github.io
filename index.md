@@ -76,6 +76,7 @@
 ### Predictive Modeling and Regression Trees
 
 - Friday February 28:
+ - [Weekly Lecture Notes, v2](https://github.com/STAT506/Lecture9/blob/master/LecturePredModeling.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture9/blob/master/LecturePredModeling.Rmd))
 
 ##### Week Eight
 
