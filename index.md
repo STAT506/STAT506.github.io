@@ -67,9 +67,13 @@
 ##### Week Seven
 
 - Monday February 24:
+    - Weekly Reading: Chapter 4.4 - 4.7
+    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture8/blob/master/CH4_part2.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture8/blob/master/CH4_part2.Rmd))
 
 - Wednesday February 26:
     - [HW 5 due](https://stat506.github.io/HW5/) ([Download HW 5 Repo](https://classroom.github.com/a/aTLmrcab))
+
+### Predictive Modeling and Regression Trees
 
 - Friday February 28:
 
@@ -80,7 +84,10 @@
 - Wednesday March 4:
     - HW 6 due
 
+### Simulation of Probability Models and Model Fits
+
 - Friday March 6:
+
 
 ##### Week Nine
 
@@ -110,6 +117,7 @@
 
 - Friday March 27: __No Class__
 
+### Logistic Regression
 ##### Week Twelve
 
 - Monday March 30:
@@ -119,6 +127,7 @@
 
 - Friday April 3:
 
+### Generalized Linear Models
 ##### Week Thirteen
 
 - Monday April 6:
@@ -128,6 +137,7 @@
 
 - Friday April 10: __No Class__
 
+### Multilevel Models
 ##### Week Fourteen
 
 - Monday April 13:
