@@ -70,22 +70,22 @@
     - Weekly Reading: Chapter 4.4 - 4.7
     - [Weekly Lecture Notes](https://github.com/STAT506/Lecture8/blob/master/CH4_part2.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture8/blob/master/CH4_part2.Rmd))
 
-- Wednesday February 26:
-    - [HW 5 due](https://stat506.github.io/HW5/) ([Download HW 5 Repo](https://classroom.github.com/a/aTLmrcab))
-
 ### Predictive Modeling and Regression Trees
 
+- Wednesday February 26:
+    - [HW 5 due](https://stat506.github.io/HW5/) ([Download HW 5 Repo](https://classroom.github.com/a/aTLmrcab))
+    - [Weekly Lecture Notes, v2](https://github.com/STAT506/Lecture9/blob/master/LecturePredModeling.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture9/blob/master/LecturePredModeling.Rmd))
+
 - Friday February 28:
- - [Weekly Lecture Notes, v2](https://github.com/STAT506/Lecture9/blob/master/LecturePredModeling.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture9/blob/master/LecturePredModeling.Rmd))
+
+### Simulation of Probability Models and Model Fits
 
 ##### Week Eight
 
 - Monday March 2:
 
 - Wednesday March 4:
-    - HW 6 due
-
-### Simulation of Probability Models and Model Fits
+    - [HW 6 due](https://stat506.github.io/HW6/) ([Download HW 6 Repo](https://classroom.github.com/a/qpisGieV))
 
 - Friday March 6:
 
