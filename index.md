@@ -83,6 +83,8 @@
 ##### Week Eight
 
 - Monday March 2:
+    - Weekly Reading: Chapter 7.1 - 7.3
+    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture10/blob/master/CH7.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture10/blob/master/CH7.Rmd))
 
 - Wednesday March 4:
     - [HW 6 due](https://stat506.github.io/HW6/) ([Download HW 6 Repo](https://classroom.github.com/a/qpisGieV))
