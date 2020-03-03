@@ -97,7 +97,7 @@
 - Monday March 9:
 
 - Wednesday March 11:
-    - HW 7 due
+    - [HW 7 due](https://stat506.github.io/HW7/)
 
 - Friday March 13:
     - [Project 2 due](https://stat506.github.io/Project2/)
@@ -114,6 +114,7 @@
 ##### Week Eleven
 
 - Monday March 23:
+    - Class Q-and-A session.
 
 - Wednesday March 25:
     - Midterm In Class Exam
