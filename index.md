@@ -95,9 +95,11 @@
 ##### Week Nine
 
 - Monday March 9:
+    - Weekly Reading: Chapter 8
+    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture11/blob/master/CH8.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture11/blob/master/CH8.Rmd))
 
 - Wednesday March 11:
-    - [HW 7 due](https://stat506.github.io/HW7/)
+    - [HW 7 due](https://stat506.github.io/HW7/) _optional assignment_
 
 - Friday March 13:
     - [Project 2 due](https://stat506.github.io/Project2/)
