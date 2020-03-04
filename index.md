@@ -99,10 +99,10 @@
     - [Weekly Lecture Notes](https://github.com/STAT506/Lecture11/blob/master/CH8.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture11/blob/master/CH8.Rmd))
 
 - Wednesday March 11:
-    - [HW 7 due](https://stat506.github.io/HW7/) _optional assignment_
+    - [HW 7 due](https://stat506.github.io/HW7/) ([Download HW 7 Repo](https://classroom.github.com/a/dy6m-Mzi)) _optional assignment_
 
 - Friday March 13:
-    - [Project 2 due](https://stat506.github.io/Project2/)
+    - [Project 2 due](https://stat506.github.io/Project2/) ([Download Project Repo](https://classroom.github.com/g/cGImBggz))
 
 
 ##### Week Ten
