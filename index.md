@@ -102,6 +102,7 @@
     - [HW 7 due](https://stat506.github.io/HW7/) ([Download HW 7 Repo](https://classroom.github.com/a/dy6m-Mzi)) _optional assignment_
 
 - Friday March 13:
+    - [Additional Lecture Notes](https://github.com/STAT506/Lecture12/blob/master/CH5.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture12/blob/master/CH5.Rmd))
     - [Project 2 due](https://stat506.github.io/Project2/) ([Download Project Repo](https://classroom.github.com/g/cGImBggz))
 
 
@@ -116,7 +117,8 @@
 ##### Week Eleven
 
 - Monday March 23:
-    - Class Q-and-A session.
+    - Class Q-and-A session
+    - Midterm Take Home Assigned
 
 - Wednesday March 25:
     - Midterm In Class Exam
@@ -127,7 +129,7 @@
 ##### Week Twelve
 
 - Monday March 30:
-    - Midterm Takehome Due
+    - Midterm Take Home Due
 
 - Wednesday April 1:
 
