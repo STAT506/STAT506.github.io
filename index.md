@@ -117,35 +117,34 @@
 ##### Week Eleven
 
 - Monday March 23:
-    - Class Q-and-A session
-    - Midterm Take Home Assigned
+    - Video Lecture: Ch. 8
 
 - Wednesday March 25:
-    - Midterm In Class Exam
+    - Reading: GH, Chapter 5
+    - Video Lecture: Logistic Regression
 
 - Friday March 27: __No Class__
 
-### Logistic Regression
 ##### Week Twelve
 
 - Monday March 30:
-    - Midterm Take Home Due
+    - Midterm Take Home Assigned
 
 - Wednesday April 1:
 
 - Friday April 3:
 
-### Generalized Linear Models
+
 ##### Week Thirteen
 
 - Monday April 6:
+    - Midterm Take Home Due
     - HW 8 due
 
 - Wednesday April 8:
 
 - Friday April 10: __No Class__
 
-### Multilevel Models
 ##### Week Fourteen
 
 - Monday April 13:
@@ -176,9 +175,9 @@
 
 ##### Week Seventeen
 
-- Thursday May 7, 8 - 9:50 AM
-    - In Class Final Exam
-    - Take Home Final Due
+- ~~Thursday May 7, 8 - 9:50 AM~~
+    - ~~In Class Final Exam~~
+    - ~~Take Home Final Due~~
 
 
 ## Course Description
