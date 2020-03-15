@@ -45,7 +45,7 @@
 
 - Monday February 10:
     - Weekly Reading: Chapter 3
-    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture6/blob/master/CH3_notes.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture6/blob/master/CH3_notes.Rmd))
+    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture6/blob/master/CH3_notes.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture6/blob/master/CH3_notes.Rmd))([Annotated Notes](https://github.com/STAT506/Lecture6/blob/master/CH3_notes.pdf))
     - [Project 1 due](https://stat506.github.io/Project1/) ([Download Project 1 Repo](https://classroom.github.com/a/_nJaCFrq))
   
 - Wednesday February 12:
@@ -58,7 +58,7 @@
 
 - Wednesday February 19:
     - Weekly Reading: Chapter 4.1 - Chapter 4.3
-    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture7/blob/master/CH4_notes.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture7/blob/master/CH4_notes.Rmd))
+    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture7/blob/master/CH4_notes.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture7/blob/master/CH4_notes.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture7/blob/master/CH4_notes_annotated.pdf))
     - [HW 4 due](https://stat506.github.io/HW4/) ([Download HW 4 Repo](https://classroom.github.com/a/0fmQczmb))
 
 - Friday February 21:
@@ -68,13 +68,13 @@
 
 - Monday February 24:
     - Weekly Reading: Chapter 4.4 - 4.7
-    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture8/blob/master/CH4_part2.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture8/blob/master/CH4_part2.Rmd))
+    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture8/blob/master/CH4_part2.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture8/blob/master/CH4_part2.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture8/blob/master/CH4_part2_annotated.pdf))
 
 ### Predictive Modeling and Regression Trees
 
 - Wednesday February 26:
     - [HW 5 due](https://stat506.github.io/HW5/) ([Download HW 5 Repo](https://classroom.github.com/a/aTLmrcab))
-    - [Weekly Lecture Notes, v2](https://github.com/STAT506/Lecture9/blob/master/LecturePredModeling.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture9/blob/master/LecturePredModeling.Rmd))
+    - [Weekly Lecture Notes, v2](https://github.com/STAT506/Lecture9/blob/master/LecturePredModeling.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture9/blob/master/LecturePredModeling.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture9/blob/master/LecturePredModeling_annotated.pdf))
 
 - Friday February 28:
 
@@ -84,7 +84,7 @@
 
 - Monday March 2:
     - Weekly Reading: Chapter 7.1 - 7.3
-    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture10/blob/master/CH7.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture10/blob/master/CH7.Rmd))
+    - [Weekly Lecture Notes](https://github.com/STAT506/Lecture10/blob/master/CH7.pdf) ([R Markdown Source Code](https://github.com/STAT506/Lecture10/blob/master/CH7.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture10/blob/master/CH7_annotated.pdf))
 
 - Wednesday March 4:
     - [HW 6 due](https://stat506.github.io/HW6/) ([Download HW 6 Repo](https://classroom.github.com/a/qpisGieV))
