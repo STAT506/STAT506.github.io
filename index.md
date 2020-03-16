@@ -117,7 +117,7 @@
 ##### Week Eleven
 
 - Monday March 23:
-    - [Video Lecture: Ch. 8](https://montana.techsmithrelay.com/j6EE)
+    - [Video Lecture: Ch. 8](https://montana.techsmithrelay.com/j6EE) ([Google Jam Board](https://jamboard.google.com/d/16mgn09S4cxuqL9ZHUC75YWVvKv_1DbEBnr4T-4k9fgQ/viewer))
 
 - Wednesday March 25:
     - Reading: GH, Chapter 5
