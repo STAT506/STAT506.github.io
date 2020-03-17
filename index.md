@@ -121,7 +121,7 @@
 
 - Wednesday March 25:
     - Reading: GH, Chapter 5
-    - Video Lecture: Logistic Regression
+    - [Video Lecture: Logistic Regression](https://montana.techsmithrelay.com/OXwO) ([Google Jam Board](https://jamboard.google.com/d/16mgn09S4cxuqL9ZHUC75YWVvKv_1DbEBnr4T-4k9fgQ/viewer?f=1))
 
 - Friday March 27: __No Class__
 
