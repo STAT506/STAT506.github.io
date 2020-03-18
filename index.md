@@ -118,27 +118,31 @@
 
 - Monday March 23:
     - [Video Lecture: Ch. 8](https://montana.techsmithrelay.com/j6EE) ([Google Jam Board](https://jamboard.google.com/d/16mgn09S4cxuqL9ZHUC75YWVvKv_1DbEBnr4T-4k9fgQ/viewer))
-
-- Wednesday March 25:
     - Reading: GH, Chapter 5
     - [Video Lecture: Logistic Regression](https://montana.techsmithrelay.com/OXwO) ([Google Jam Board](https://jamboard.google.com/d/16mgn09S4cxuqL9ZHUC75YWVvKv_1DbEBnr4T-4k9fgQ/viewer?f=1))
+    - Questions about Ch. 8 / Intro to Logistic: [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
 
+- Wednesday March 25:
+   - Midterm Q-and-A: [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
+   - Midterm Take Home Assigned
+    
 - Friday March 27: __No Class__
 
 ##### Week Twelve
 
 - Monday March 30:
-    - Midterm Take Home Assigned
+    - No new material, work on midterm.
+    - Midterm Q-and-A: [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
 
 - Wednesday April 1:
-
+    - Chapter 5, part 2
 - Friday April 3:
+    - Midterm Take Home Due
 
 
 ##### Week Thirteen
 
 - Monday April 6:
-    - Midterm Take Home Due
     - HW 8 due
 
 - Wednesday April 8:
