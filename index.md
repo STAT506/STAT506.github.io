@@ -124,7 +124,7 @@
 
 - Wednesday March 25:
    - Midterm Q-and-A: [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
-   - Midterm Take Home Assigned
+   - [Midterm Take Home Assigned](https://github.com/STAT506/midterm/blob/master/Midterm_S2020.pdf) ([download Midterm Repo](https://classroom.github.com/a/5OaLfqRF))
     
 - Friday March 27: __No Class__
 
@@ -135,6 +135,9 @@
     - Midterm Q-and-A: [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
 
 - Wednesday April 1:
+    - Reading: GH, Chapter 5
+    - [Video Lecture: Logistic Regression](https://montana.techsmithrelay.com/OXwO) ([Google Jam Board](https://jamboard.google.com/d/16mgn09S4cxuqL9ZHUC75YWVvKv_1DbEBnr4T-4k9fgQ/viewer?f=1))
+    - Questions about intro to Logistic: [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
     - Chapter 5, part 2
 - Friday April 3:
     - Midterm Take Home Due
