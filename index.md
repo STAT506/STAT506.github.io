@@ -140,13 +140,13 @@
     - Questions about intro to Logistic: [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
     - Chapter 5, part 2
 - Friday April 3:
+    - Interactive Documents with R Shiny: Class Demo
     - Midterm Take Home Due
 
 
 ##### Week Thirteen
 
 - Monday April 6:
-    - HW 8 due
 
 - Wednesday April 8:
 
@@ -155,7 +155,7 @@
 ##### Week Fourteen
 
 - Monday April 13:
-    - HW 9 due
+    - HW 8 due
 
 - Wednesday April 15:
 
@@ -164,7 +164,7 @@
 ##### Week Fifteen
 
 - Monday April 20:
-    - HW 10 due
+    - HW 9 due
 
 - Wednesday April 22:
 
@@ -173,7 +173,7 @@
 ##### Week Sixteen
 
 - Monday April 27: 
-    - HW 11 due
+    - HW 10 due
 
 - Wednesday April 29: 
 
