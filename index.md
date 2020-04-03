@@ -140,8 +140,9 @@
     - Questions about intro to Logistic: [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
     - Chapter 5, part 2
 - Friday April 3:
-    - Interactive Documents with R Shiny: Class Demo
+    - Interactive Documents with R Shiny: Class Demo ([R Markdown Document](https://github.com/stat408/Lab9/blob/master/Lab9_Shiny.Rmd))
     - Midterm Take Home Due
+    - _Optional:_ [R Shiny Video](https://montana.techsmithrelay.com/Fy1d) ([R Shiny Slides](https://stat408.github.io/Lecture11/))
 
 
 ##### Week Thirteen
