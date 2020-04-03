@@ -145,7 +145,7 @@
     - _Optional:_ [R Shiny Video](https://montana.techsmithrelay.com/Fy1d) ([R Shiny Slides](https://stat408.github.io/Lecture11/))
 
 
-##### Week Thirteen
+##### Week Thirteen: Logistic Regression
 
 - Monday April 6:
 
@@ -153,7 +153,7 @@
 
 - Friday April 10: __No Class__
 
-##### Week Fourteen
+##### Week Fourteen: Generalized Linear Models
 
 - Monday April 13:
     - HW 8 due
@@ -162,7 +162,7 @@
 
 - Friday April 17:
 
-##### Week Fifteen
+##### Week Fifteen: Hierarchical Models
 
 - Monday April 20:
     - HW 9 due
@@ -171,7 +171,7 @@
 
 - Friday April 24:
 
-##### Week Sixteen
+##### Week Sixteen: Hierarchical Models
 
 - Monday April 27: 
     - HW 10 due
@@ -179,7 +179,6 @@
 - Wednesday April 29: 
 
 - Friday May 1: 
-    - Project 3 due
 
 ##### Week Seventeen
 
