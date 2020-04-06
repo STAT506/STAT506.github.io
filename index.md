@@ -149,7 +149,7 @@
 
 - Monday April 6:
     - [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
-    - [Logistic Demo RMD](https://github.com/STAT506/Lecture13/blob/master/Logistic_Demo.Rmd) ([Logistic Demo Key RMD](https://github.com/STAT506/Lecture13/blob/master/Logistic_Demo_key.Rmd))
+    - [Logistic Demo RMD](https://github.com/STAT506/Lecture13/blob/master/Logistic_Demo.Rmd) ([Logistic Demo Key RMD](https://github.com/STAT506/Lecture13/blob/master/Logistic_Demo_key.Rmd)) ([Video Recording](https://montana.techsmithrelay.com/hF5D))
     - Weekly Reading: GH Chapter 5
 - Wednesday April 8: 
     - [Google Hangout Link](https://meet.google.com/mzd-outz-uuw)
