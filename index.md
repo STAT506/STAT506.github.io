@@ -163,7 +163,7 @@
 ##### Week Fourteen: Generalized Linear Models
 
 - Monday April 13:
-    - HW 8 due
+    - [HW 8 due](https://github.com/STAT506/HW8/blob/master/HW8.pdf)
 
 - Wednesday April 15:
 
@@ -191,7 +191,7 @@
 
 - ~~Thursday May 7, 8 - 9:50 AM~~
     - ~~In Class Final Exam~~
-    - ~~Take Home Final Due~~
+    - Take Home Final Due
 
 
 ## Course Description
