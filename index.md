@@ -163,7 +163,7 @@
 ##### Week Fourteen: Generalized Linear Models
 
 - Monday April 13:
-    - [HW 8 due](https://github.com/STAT506/HW8/blob/master/HW8.pdf)
+    - [HW 8 due](https://github.com/STAT506/HW8/blob/master/HW8.pdf) ([Download Repo](https://classroom.github.com/a/N-OxSPtZ))
 
 - Wednesday April 15:
 
