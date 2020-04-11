@@ -164,10 +164,14 @@
 
 - Monday April 13:
     - [HW 8 due](https://github.com/STAT506/HW8/blob/master/HW8.pdf) ([Download Repo](https://classroom.github.com/a/N-OxSPtZ))
+    - Weekly Reading: GH Chapter 6
+    - Generalized Linear Models Overview ([Google Hangout Link](https://meet.google.com/mzd-outz-uuw))
+    - ([Google Jam Board](https://jamboard.google.com/d/16mgn09S4cxuqL9ZHUC75YWVvKv_1DbEBnr4T-4k9fgQ/viewer?f=4))
 
 - Wednesday April 15:
-
+    - Count Regression Demo
 - Friday April 17:
+    - Ordinal Regression Demo
 
 ##### Week Fifteen: Hierarchical Models
 
