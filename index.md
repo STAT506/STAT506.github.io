@@ -175,7 +175,8 @@
 ##### Week Fifteen: Hierarchical Models
 
 - Monday April 20:
-    
+    - Weekly Reading: GH Chapter 11 & CH Chapter 12.1 - 12.4
+
 - Wednesday April 22:
     - [HW 9 due](https://stat506.github.io/HW9/)
 
@@ -184,6 +185,8 @@
 ##### Week Sixteen: Hierarchical Models
 
 - Monday April 27: 
+    - Weekly Reading: GH Chapter 12.5 - 12.9 & GH Chapter 13
+
 
 - Wednesday April 29: 
 
