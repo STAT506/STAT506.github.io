@@ -196,7 +196,7 @@
 
 ##### Week Seventeen
 
-- ~~Thursday May 7, 8 - 9:50 AM~~
+- Thursday May 7~~, 8 - 9:50 AM~~
     - ~~In Class Final Exam~~
     - Take Home Final Due
 
