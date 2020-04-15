@@ -175,20 +175,21 @@
 ##### Week Fifteen: Hierarchical Models
 
 - Monday April 20:
-    - HW 9 due
-
+    
 - Wednesday April 22:
+    - [HW 9 due](https://stat506.github.io/HW9/)
 
 - Friday April 24:
 
 ##### Week Sixteen: Hierarchical Models
 
 - Monday April 27: 
-    - HW 10 due
 
 - Wednesday April 29: 
 
 - Friday May 1: 
+    - HW 10 due
+
 
 ##### Week Seventeen
 
