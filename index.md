@@ -168,11 +168,11 @@
     - Generalized Linear Models Overview ([Google Hangout Link](https://meet.google.com/mzd-outz-uuw)) ([Class Video Recording](https://montana.techsmithrelay.com/e7IS))
 
 - Wednesday April 15:
-    - Generalized Linear Models
+    - Generalized Linear Models ([Class Video Recording](https://montana.techsmithrelay.com/aiLp))
 - Friday April 17:
     - [Count / Ordinal Regression Demo](https://github.com/STAT506/Lecture14/blob/master/CH6_key.pdf) ([Rmd Source Code](https://github.com/STAT506/Lecture14/blob/master/CH6_key.Rmd))
 
-##### Week Fifteen: Hierarchical Models
+##### Week Fifteen: Hierarchical Models Overview
 
 - Monday April 20:
     - Weekly Reading: GH Chapter 11 & CH Chapter 12.1 - 12.4
@@ -182,11 +182,12 @@
 
 - Friday April 24:
 
-##### Week Sixteen: Hierarchical Models
+##### Week Sixteen: Hierarchical Models Fitting
 
 - Monday April 27: 
     - Weekly Reading: GH Chapter 12.5 - 12.9 & GH Chapter 13
-
+    - [lme4 (lmer) vignette](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)
+    - Stan Vignette
 
 - Wednesday April 29: 
 
