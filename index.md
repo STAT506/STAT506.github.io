@@ -168,9 +168,9 @@
     - Generalized Linear Models Overview ([Google Hangout Link](https://meet.google.com/mzd-outz-uuw)) ([Class Video Recording](https://montana.techsmithrelay.com/e7IS))
 
 - Wednesday April 15:
-    - Count Regression Demo
+    - Generalized Linear Models
 - Friday April 17:
-    - Ordinal Regression Demo
+    - [Count / Ordinal Regression Demo](https://github.com/STAT506/Lecture14/blob/master/CH6_key.pdf) ([Rmd Source Code](https://github.com/STAT506/Lecture14/blob/master/CH6_key.Rmd))
 
 ##### Week Fifteen: Hierarchical Models
 
