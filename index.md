@@ -178,7 +178,7 @@
     - Weekly Reading: GH Chapter 11 & CH Chapter 12.1 - 12.4
 
 - Wednesday April 22:
-    - [HW 9 due](https://stat506.github.io/HW9/)
+    - [HW 9 due](https://stat506.github.io/HW9/)([Download Repo](https://classroom.github.com/a/Uf_u5rjY))
 
 - Friday April 24:
 
