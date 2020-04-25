@@ -192,7 +192,7 @@
 - Wednesday April 29: 
 
 - Friday May 1: 
-    - HW 10 due
+    - [HW 10 due](https://github.com/STAT506/HW10/blob/master/HW10.pdf) ([Download Repo](https://classroom.github.com/a/tYE6mXik))
 
 
 ##### Week Seventeen
