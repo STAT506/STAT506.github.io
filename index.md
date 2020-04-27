@@ -170,7 +170,7 @@
 - Wednesday April 15:
     - Generalized Linear Models ([Class Video Recording](https://montana.techsmithrelay.com/aiLp))
 - Friday April 17:
-    - [Count / Ordinal Regression Demo](https://github.com/STAT506/Lecture14/blob/master/CH6_key.pdf) ([Rmd Source Code](https://github.com/STAT506/Lecture14/blob/master/CH6_key.Rmd))
+    - [Count / Ordinal Regression Demo](https://github.com/STAT506/Lecture14/blob/master/CH6_key.pdf) ([Rmd Source Code](https://github.com/STAT506/Lecture14/blob/master/CH6_key.Rmd)) ([Class Video](https://montana.techsmithrelay.com/QeoB))
 
 ##### Week Fifteen: Hierarchical Models Overview
 
@@ -181,11 +181,12 @@
     - [HW 9 due](https://stat506.github.io/HW9/)([Download Repo](https://classroom.github.com/a/Uf_u5rjY))
 
 - Friday April 24:
-    - [Weekly Notes PDF](https://github.com/STAT506/Lecture15/blob/master/CH11_key.pdf)
+    - [Weekly Notes PDF](https://github.com/STAT506/Lecture15/blob/master/CH11_key.pdf) ([Class Video](https://montana.techsmithrelay.com/gJl0)
 
 ##### Week Sixteen: Hierarchical Models Fitting
 
-- Monday April 27: 
+- Monday April 27:
+    - [Class Video Recording](https://montana.techsmithrelay.com/XE1e)
     - Weekly Reading: GH Chapter 12.5 - 12.9 & GH Chapter 13
     - [lme4 (lmer) vignette](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)
     - [Weekly Notes](https://github.com/STAT506/Lecture16/blob/master/CH12_key.pdf) ([RMD Source](https://github.com/STAT506/Lecture16/blob/master/CH12_key.Rmd))
