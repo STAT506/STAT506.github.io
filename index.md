@@ -181,13 +181,14 @@
     - [HW 9 due](https://stat506.github.io/HW9/)([Download Repo](https://classroom.github.com/a/Uf_u5rjY))
 
 - Friday April 24:
+    - [Weekly Notes PDF](https://github.com/STAT506/Lecture15/blob/master/CH11_key.pdf)
 
 ##### Week Sixteen: Hierarchical Models Fitting
 
 - Monday April 27: 
     - Weekly Reading: GH Chapter 12.5 - 12.9 & GH Chapter 13
     - [lme4 (lmer) vignette](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)
-    - Stan Vignette
+    - [Weekly Notes](https://github.com/STAT506/Lecture16/blob/master/CH12_key.pdf) ([RMD Source](https://github.com/STAT506/Lecture16/blob/master/CH12_key.Rmd))
 
 - Wednesday April 29: 
 
