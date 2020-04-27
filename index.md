@@ -175,13 +175,13 @@
 ##### Week Fifteen: Hierarchical Models Overview
 
 - Monday April 20:
-    - Weekly Reading: GH Chapter 11 & CH Chapter 12.1 - 12.4
+    - Weekly Reading: GH Chapter 11 & CH Chapter 12.1 - 12.4 ([Class Video](https://montana.techsmithrelay.com/XBhf))
 
 - Wednesday April 22:
-    - [HW 9 due](https://stat506.github.io/HW9/)([Download Repo](https://classroom.github.com/a/Uf_u5rjY))
+    - [HW 9 due](https://stat506.github.io/HW9/)([Download Repo](https://classroom.github.com/a/Uf_u5rjY)) ([Class Video](https://montana.techsmithrelay.com/1Dtk))
 
 - Friday April 24:
-    - [Weekly Notes PDF](https://github.com/STAT506/Lecture15/blob/master/CH11_key.pdf) ([Class Video](https://montana.techsmithrelay.com/gJl0)
+    - [Weekly Notes PDF](https://github.com/STAT506/Lecture15/blob/master/CH11_key.pdf) ([Class Video](https://montana.techsmithrelay.com/gJl0))
 
 ##### Week Sixteen: Hierarchical Models Fitting
 
