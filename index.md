@@ -189,7 +189,7 @@
     - [Class Video Recording](https://montana.techsmithrelay.com/XE1e)
     - Weekly Reading: GH Chapter 12.5 - 12.9 & GH Chapter 13
     - [lme4 (lmer) vignette](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)
-    - [Weekly Notes](https://github.com/STAT506/Lecture16/blob/master/CH12_key.pdf) ([RMD Source](https://github.com/STAT506/Lecture16/blob/master/CH12_key.Rmd))
+    - [Weekly Notes](https://github.com/STAT506/Lecture16/blob/master/CH12_key.pdf) ([RMD Source](https://github.com/STAT506/Lecture16/blob/master/CH12_key.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture16/blob/master/CH12_annotate.pdf))
 
 - Wednesday April 29: 
 
