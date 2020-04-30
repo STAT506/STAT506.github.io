@@ -192,9 +192,10 @@
     - [Weekly Notes](https://github.com/STAT506/Lecture16/blob/master/CH12_key.pdf) ([RMD Source](https://github.com/STAT506/Lecture16/blob/master/CH12_key.Rmd)) ([Annotated Notes](https://github.com/STAT506/Lecture16/blob/master/CH12_annotate.pdf))
 
 - Wednesday April 29: 
+    - [Class Video Recording](https://montana.techsmithrelay.com/xglV)
 
 - Friday May 1: 
-    - [HW 10 due](https://github.com/STAT506/HW10/blob/master/HW10.pdf) ([Download Repo](https://classroom.github.com/a/tYE6mXik))
+    - [HW 10 (Optional)](https://github.com/STAT506/HW10/blob/master/HW10.pdf) ([Download Repo](https://classroom.github.com/a/tYE6mXik))
 
 
 ##### Week Seventeen
