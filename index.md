@@ -202,7 +202,7 @@
 
 - Thursday May 7~~, 8 - 9:50 AM~~
     - ~~In Class Final Exam~~
-    - [Take Home Final Due](https://github.com/STAT506/final_exam/blob/master/Final_S2020.pdf) ([RMD Source Code](https://github.com/STAT506/final_exam/blob/master/Final_S2020.Rmd))
+    - [Take Home Final Due](https://github.com/STAT506/final_exam/blob/master/Final_S2020.pdf) ([RMD Source Code](https://github.com/STAT506/final_exam/blob/master/Final_S2020.Rmd)) ([Download Repo](https://classroom.github.com/a/J2D48HP9))
 
 
 ## Course Description
