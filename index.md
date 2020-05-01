@@ -196,6 +196,7 @@
 
 - Friday May 1: 
     - [HW 10 (Optional)](https://github.com/STAT506/HW10/blob/master/HW10.pdf) ([Download Repo](https://classroom.github.com/a/tYE6mXik))
+    - [Class Video Recording](https://montana.techsmithrelay.com/KO4w)
 
 
 ##### Week Seventeen
