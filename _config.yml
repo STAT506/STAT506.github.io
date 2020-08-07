@@ -22,6 +22,6 @@ github_username:  STAT506
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
