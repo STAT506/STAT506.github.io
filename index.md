@@ -1,4 +1,4 @@
-## Course Description
+#### Course Description
 
 This course will continue wrap up linear models and generalized linear models from STAT505, including a more detailed look at the underlying linear algebra. In addition, the course will present advanced regression techniques including hierarchical models.
 
@@ -25,7 +25,7 @@ This course will continue wrap up linear models and generalized linear models fr
 ### Textbooks
 
 - _Regression and Other Stories_, by Andrew Gelman, Jennifer Hill, and Aki Vehtari 
-- \emph{Data Analysis Using Regression and Multilevel/Hierarchical Models}, by Andrew Gelman and Jennifer Hill
+- _Data Analysis Using Regression and Multilevel/Hierarchical Models_, by Andrew Gelman and Jennifer Hill
 
 ### Additional Resources
 Analysis, data visualization, and version control procedures will be implemented with:
