@@ -84,3 +84,11 @@ Please evaluate your own health status regularly and refrain from attending clas
 
 In the event that one or more students and/or the instructor are required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2l.
 
+## Approximate Course Outline
+
+1. GLM Review
+2. Linear Algebra Section
+3. Design and Sample Size Decisions
+4. Advanced Regression Overview
+5. Hierarchical Models
+6. Causal Inference
