@@ -103,7 +103,7 @@ Due to the ongoing pandemic and issues stemming from this, a synchronous virtual
   
 - Weekly Notes: 
   - [LM Overview](https://github.com/STAT506/IntroLectures/blob/main/LM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/LM_intro.Rmd))
-  - GLM Recap
+  - [GLM Recap](https://github.com/STAT506/IntroLectures/blob/main/GLM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/GLM_intro.Rmd))
   
 - Monday January 11: Course Overview and Class Conversation
 
