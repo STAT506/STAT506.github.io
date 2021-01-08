@@ -96,3 +96,29 @@ Due to the ongoing pandemic and issues stemming from this, a synchronous virtual
 4. Advanced Regression Overview
 5. Hierarchical Models
 6. Causal Inference
+
+## Course Schedule
+
+#### Week One: Course Introduction
+
+- Monday January 11: Course Overview and Class Conversation
+
+- Wednesday January 13: Recap of STAT 505
+
+- Friday January 15: More about GLMs
+
+---
+
+#### Week Two: 
+
+##### Weekly Materials
+- Suggested Reading:
+
+- Weekly Notes: 
+
+- Monday January 18: __No class: MLK Day__
+
+- Wednesday January 20: 
+
+- Friday January 22: 
+
