@@ -43,13 +43,11 @@ For additional resources see:
 
 #### Grading Policy
 
-- **25%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. 
+- **30%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. 
 
-- **25%** of your grade will be determined by a midterm exam. 
+- **30%** of your grade will be determined by a final exam.
 
-- **25%** of your grade will be determined by a final exam.
-
-- **25%** of your grade will be determined by a series of projects. The projects will be due roughly every 3 - 4 weeks during the course of the semester and may require oral presentations.
+- **40%** of your grade will be determined by a series of projects. The projects will be due roughly every 3 - 4 weeks during the course of the semester and may require oral presentations.
 
 
 #### Collaboration
@@ -100,12 +98,18 @@ Due to the ongoing pandemic and issues stemming from this, a synchronous virtual
 ## Course Schedule
 
 #### Week One: Course Introduction
-
+- Suggested Reading:
+  - 505 materials _(optional)_
+  
+- Weekly Notes: 
+  - [LM Overview](https://github.com/STAT506/IntroLectures/blob/main/LM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/LM_intro.Rmd))
+  - GLM Recap
+  
 - Monday January 11: Course Overview and Class Conversation
 
-- Wednesday January 13: Recap of STAT 505
+- Wednesday January 13: Recap of STAT 505 (LMs)
 
-- Friday January 15: More about GLMs
+- Friday January 15: Recap of STAT 505 (GLMs)
 
 ---
 
