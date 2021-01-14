@@ -1,3 +1,50 @@
+## Course Schedule
+
+#### Week One: Course Introduction
+- Suggested Reading:
+  - 505 materials _(optional)_
+  
+- Weekly Notes: 
+  - [LM Overview](https://github.com/STAT506/IntroLectures/blob/main/LM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/LM_intro.Rmd))
+  - [GLM Recap](https://github.com/STAT506/IntroLectures/blob/main/GLM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/GLM_intro.Rmd))
+  
+- Monday January 11: Course Overview and Class Conversation
+
+- Wednesday January 13: Recap of STAT 505 (LMs)
+
+- Friday January 15: Recap of STAT 505 (GLMs)
+
+---
+
+#### Week Two: 
+
+##### Weekly Materials
+- Suggested Reading: ROS Chapter 15
+
+- Weekly Notes: [Count GLMs](https://github.com/STAT506/GLM_Lectures/raw/main/GLMs.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/GLMs.Rmd))
+
+- Monday January 18: __No class: MLK Day__
+
+- Wednesday January 20: Count GLMs
+
+- Friday January 22: Count GLMs
+
+#### Week Three: 
+
+##### Weekly Materials
+- Suggested Reading:
+
+- Weekly Notes: 
+
+- Homework: [PDF](https://github.com/STAT506/HW1/blob/master/HW1.pdf) ([Download GitHub Repo](https://classroom.github.com/a/4JjsQHi8))
+
+- Monday January 25: 
+
+- Wednesday January 27: 
+
+- Friday January 29: 
+
+
 #### Course Description
 
 This course will continue wrap up linear models and generalized linear models from STAT505, including a more detailed look at the underlying linear algebra. In addition, the course will present advanced regression techniques including hierarchical models.
@@ -96,35 +143,4 @@ Due to the ongoing pandemic and issues stemming from this, a synchronous virtual
 4. Advanced Regression Overview
 5. Hierarchical Models
 6. Causal Inference
-
-## Course Schedule
-
-#### Week One: Course Introduction
-- Suggested Reading:
-  - 505 materials _(optional)_
-  
-- Weekly Notes: 
-  - [LM Overview](https://github.com/STAT506/IntroLectures/blob/main/LM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/LM_intro.Rmd))
-  - [GLM Recap](https://github.com/STAT506/IntroLectures/blob/main/GLM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/GLM_intro.Rmd))
-  
-- Monday January 11: Course Overview and Class Conversation
-
-- Wednesday January 13: Recap of STAT 505 (LMs)
-
-- Friday January 15: Recap of STAT 505 (GLMs)
-
----
-
-#### Week Two: 
-
-##### Weekly Materials
-- Suggested Reading: ROS Chapter 15
-
-- Weekly Notes: 
-
-- Monday January 18: __No class: MLK Day__
-
-- Wednesday January 20: 
-
-- Friday January 22: 
 
