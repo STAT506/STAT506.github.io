@@ -29,6 +29,8 @@
 
 - Friday January 22: Count GLMs
 
+---
+
 #### Week Three: 
 
 ##### Weekly Materials
@@ -43,6 +45,8 @@
 - Wednesday January 27: 
 
 - Friday January 29: 
+
+---
 
 
 #### Course Description
