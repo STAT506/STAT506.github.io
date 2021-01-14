@@ -118,7 +118,7 @@ Due to the ongoing pandemic and issues stemming from this, a synchronous virtual
 #### Week Two: 
 
 ##### Weekly Materials
-- Suggested Reading:
+- Suggested Reading: ROS Chapter 15
 
 - Weekly Notes: 
 
