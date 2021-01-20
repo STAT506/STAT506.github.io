@@ -6,13 +6,12 @@
   
 - Weekly Notes: 
   - [LM Overview](https://github.com/STAT506/IntroLectures/blob/main/LM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/LM_intro.Rmd))
-  - [GLM Recap](https://github.com/STAT506/IntroLectures/blob/main/GLM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/GLM_intro.Rmd))
   
 - Monday January 11: Course Overview and Class Conversation
 
 - Wednesday January 13: Recap of STAT 505 (LMs)
 
-- Friday January 15: Recap of STAT 505 (GLMs)
+- Friday January 15: Recap of STAT 505 (LMs)
 
 ---
 
@@ -21,11 +20,13 @@
 ##### Weekly Materials
 - Suggested Reading: ROS Chapter 15
 
-- Weekly Notes: [Count GLMs](https://github.com/STAT506/GLM_Lectures/raw/main/GLMs.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/GLMs.Rmd))
+- Weekly Notes:   
+    - [GLM Recap](https://github.com/STAT506/IntroLectures/blob/main/GLM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/GLM_intro.Rmd))
+    - [Count GLMs](https://github.com/STAT506/GLM_Lectures/raw/main/GLMs.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/GLMs.Rmd))
 
 - Monday January 18: __No class: MLK Day__
 
-- Wednesday January 20: Count GLMs
+- Wednesday January 20: Logistic Regression Review
 
 - Friday January 22: Count GLMs
 
@@ -38,7 +39,7 @@
 
 - Weekly Notes: 
 
-- Homework: [PDF](https://github.com/STAT506/HW1/blob/master/HW1.pdf) ([Download GitHub Repo](https://classroom.github.com/a/4JjsQHi8))
+- Homework: [HW 1 PDF](https://github.com/STAT506/HW1/blob/master/HW1.pdf) ([Download GitHub Repo](https://classroom.github.com/a/4JjsQHi8))
 
 - Monday January 25: 
 
