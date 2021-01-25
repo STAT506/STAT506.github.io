@@ -66,6 +66,10 @@ This course will continue wrap up linear models and generalized linear models fr
 
 To view a PDF of the course syllabus, follow this link: [PDF Syllabus](https://github.com/STAT506/syllabus/raw/main/syllabus2021.pdf).
 
+### Office Hours
+
+Office hours will be held from 9 - 9:45 on M and 
+
 ### Learning Outcomes:
 
 - To fit hierarchical models in R and SAS and interpret the results.
