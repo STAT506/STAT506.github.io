@@ -1,11 +1,16 @@
 ## Course Schedule
 
 #### Week One: Course Introduction
+
+##### Weekly Materials
+
 - Suggested Reading:
   - 505 materials _(optional)_
   
 - Weekly Notes: 
   - [LM Overview](https://github.com/STAT506/IntroLectures/blob/main/LM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/LM_intro.Rmd))
+ 
+##### Class Overview 
   
 - Monday January 11: Course Overview and Class Conversation
 
@@ -18,11 +23,13 @@
 #### Week Two: 
 
 ##### Weekly Materials
-- Suggested Reading: ROS Chapter 15
+- Suggested Reading: ROS Chapter 15.1 - Chapter 15.2
 
 - Weekly Notes:   
     - [GLM Recap](https://github.com/STAT506/IntroLectures/blob/main/GLM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/GLM_intro.Rmd))
     - [Count GLMs](https://github.com/STAT506/GLM_Lectures/raw/main/GLMs.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/GLMs.Rmd))
+
+##### Class Overview
 
 - Monday January 18: __No class: MLK Day__
 
@@ -35,11 +42,14 @@
 #### Week Three: 
 
 ##### Weekly Materials
-- Suggested Reading:
+- Suggested Reading: ROS Chapter 15.3 -
 
 - Weekly Notes: 
 
 - Homework: [HW 1 PDF](https://github.com/STAT506/HW1/blob/master/HW1.pdf) ([Download GitHub Repo](https://classroom.github.com/a/4JjsQHi8))
+
+- Project: [Project 1 Overview](https://github.com/STAT506/project_one/blob/main/Project1_Info.pdf)
+##### Class Overview
 
 - Monday January 25: 
 
