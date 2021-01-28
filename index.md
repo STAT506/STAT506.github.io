@@ -46,18 +46,20 @@
   - ROS Chapter 15.3
   - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
 
-- Weekly Notes: [Latent Data GLMs](https://github.com/STAT506/GLM_Lectures/blob/main/OtherGLMS.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/OtherGLMS.Rmd))
+- Weekly Notes: 
+  - [Latent Data GLMs](https://github.com/STAT506/GLM_Lectures/blob/main/OtherGLMS.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/OtherGLMS.Rmd))
+  - [Ordinal Regression](https://github.com/STAT506/GLM_Lectures/blob/main/Ordinal.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/Ordinal.Rmd))
 
 - Homework: [HW 1 PDF](https://github.com/STAT506/HW1/blob/master/HW1.pdf) ([Download GitHub Repo](https://classroom.github.com/a/4JjsQHi8))
 
 - Project: [Project 1 Overview](https://github.com/STAT506/project_one/blob/main/Project1_Info.pdf)
 ##### Class Overview
 
-- Monday January 25: Poisson / Negative Binomial Regression
+- Monday January 25: Poisson Regression
 
-- Wednesday January 27: 
+- Wednesday January 27:  Negative Binomial Regression
 
-- Friday January 29: 
+- Friday January 29: Latent Data Models (Probit)
 
 ---
 
