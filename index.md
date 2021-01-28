@@ -42,7 +42,9 @@
 #### Week Three: 
 
 ##### Weekly Materials
-- Suggested Reading: ROS Chapter 15.3 -
+- Suggested Reading: 
+  - ROS Chapter 15.3
+  - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
 
 - Weekly Notes: [Latent Data GLMs](https://github.com/STAT506/GLM_Lectures/blob/main/OtherGLMS.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/OtherGLMS.Rmd))
 
