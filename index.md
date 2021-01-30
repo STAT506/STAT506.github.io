@@ -63,6 +63,27 @@
 
 ---
 
+#### Week Four: 
+
+##### Weekly Materials
+- Suggested Reading: 
+  - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
+
+- Weekly Notes: 
+  - [Ordinal Regression](https://github.com/STAT506/GLM_Lectures/blob/main/Ordinal.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/Ordinal.Rmd))
+
+- Homework: [HW 2 PDF]
+
+- Project: [Project 1 Overview](https://github.com/STAT506/project_one/blob/main/Project1_Info.pdf)
+##### Class Overview
+
+- Monday February 1: Ordinal Regression
+
+- Wednesday February 3: Compound Models
+
+- Friday February 5: 
+
+---
 
 #### Course Description
 
