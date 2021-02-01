@@ -50,7 +50,7 @@
   - [Latent Data GLMs](https://github.com/STAT506/GLM_Lectures/blob/main/OtherGLMS.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/OtherGLMS.Rmd))
   - [Ordinal Regression](https://github.com/STAT506/GLM_Lectures/blob/main/Ordinal.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/Ordinal.Rmd))
 
-- Homework: [HW 1 PDF](https://github.com/STAT506/HW1/blob/master/HW1.pdf) ([Download GitHub Repo](https://classroom.github.com/a/4JjsQHi8))
+- Homework: [HW 1 PDF Due February 1](https://github.com/STAT506/HW1/blob/master/HW1.pdf) ([Download GitHub Repo](https://classroom.github.com/a/4JjsQHi8))
 
 - Project: [Project 1 Overview](https://github.com/STAT506/project_one/blob/main/Project1_Info.pdf)
 ##### Class Overview
@@ -72,18 +72,41 @@
 - Weekly Notes: 
   - [Ordinal Regression](https://github.com/STAT506/GLM_Lectures/blob/main/Ordinal.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/Ordinal.Rmd))
 
-- Homework: [HW 2 PDF]
+- Homework: [HW 2 PDF Due February 8](https://github.com/STAT506/homework2/blob/main/HW2.pdf) ([Download Repo](https://classroom.github.com/a/ntRos6a-))
 
 - Project: [Project 1 Overview](https://github.com/STAT506/project_one/blob/main/Project1_Info.pdf)
 ##### Class Overview
 
 - Monday February 1: Ordinal Regression
+  - HW 1 DUE
 
 - Wednesday February 3: Compound Models
 
 - Friday February 5: 
 
 ---
+
+#### Week Five: 
+
+##### Weekly Materials
+- Suggested Reading: 
+  - 
+
+- Weekly Notes: 
+  - 
+
+- Homework: [Project 1 Due February 15](https://github.com/STAT506/project_one/blob/main/Project1_Info.pdf) ([Download Repo](https://classroom.github.com/g/1Fyqimod))
+
+##### Class Overview
+
+- Monday February 8: Ordinal Regression
+
+- Wednesday February 10: Compound Models
+
+- Friday February 12: 
+
+---
+
 
 #### Course Description
 
