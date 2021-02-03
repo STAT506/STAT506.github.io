@@ -68,6 +68,7 @@
 ##### Weekly Materials
 - Suggested Reading: 
   - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
+  - Boik Chapter 7 & 8
 
 - Weekly Notes: 
   - [Ordinal Regression](https://github.com/STAT506/GLM_Lectures/blob/main/Ordinal.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/Ordinal.Rmd))
@@ -91,7 +92,7 @@
 
 ##### Weekly Materials
 - Suggested Reading: 
-  - 
+  - Boik Chapter 11, Chapter 14, Chapter 16
 
 - Weekly Notes: 
   - 
@@ -100,10 +101,10 @@
 
 ##### Class Overview
 
-- Monday February 8: Ordinal Regression
+- Monday February 8: 
   - HW2 Due, February 9
 
-- Wednesday February 10: Compound Models
+- Wednesday February 10: 
 
 - Friday February 12: 
 
