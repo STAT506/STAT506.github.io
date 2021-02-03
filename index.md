@@ -73,6 +73,7 @@
 - Weekly Notes: 
   - [Ordinal Regression](https://github.com/STAT506/GLM_Lectures/blob/main/Ordinal.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/Ordinal.Rmd))
   - [Mixture Models](https://github.com/STAT506/GLM_Lectures/blob/main/CompoundModels.pdf) ([RMD Source](https://github.com/STAT506/GLM_Lectures/blob/main/CompoundModels.Rmd))
+  - [Linear Algebra Notation](https://github.com/STAT506/LinearAlgebra/blob/main/LinearAlgebraNotation.pdf) ([RMD Source](https://github.com/STAT506/LinearAlgebra/blob/main/LinearAlgebraNotation.Rmd))
 
 - Homework: [HW 2 PDF Due February 9](https://github.com/STAT506/homework2/blob/main/HW2.pdf) ([Download Repo](https://classroom.github.com/a/ntRos6a-))
 
@@ -84,7 +85,7 @@
 
 - Wednesday February 3: Compound Models
 
-- Friday February 5: 
+- Friday February 5: More mixture models + Linear Algebra Intro
 
 ---
 
