@@ -95,7 +95,6 @@
   - Boik Chapter 11, Chapter 14, Chapter 16
 
 - Weekly Notes: 
-  - 
 
 - Homework: [Project 1 Due February 16](https://github.com/STAT506/project_one/blob/main/Project1_Info.pdf) ([Download Repo](https://classroom.github.com/g/1Fyqimod))
 
@@ -114,10 +113,8 @@
 
 ##### Weekly Materials
 - Suggested Reading: 
-  - 
 
 - Weekly Notes: 
-  - 
 
 - Homework: 
 
