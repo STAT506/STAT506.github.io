@@ -121,7 +121,7 @@
 
 ##### Class Overview
 
-- Monday February 15: Ordinal Regression
+- Monday February 15: __No Class President's Day__
   - Project 1 Due, February 16
 
 - Wednesday February 17: 
