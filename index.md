@@ -95,18 +95,18 @@
 - Suggested Reading: 
   - Boik Chapter 11, Chapter 14, Chapter 16
 
-- Weekly Notes: 
+- Weekly Notes: [PDF](https://github.com/STAT506/LinearAlgebra/blob/main/MoreLinearAlgebra.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/LinearAlgebra/main/MoreLinearAlgebra.Rmd))
 
 - Homework: [Project 1 Due February 16](https://github.com/STAT506/project_one/blob/main/Project1_Info.pdf) ([Download Repo](https://classroom.github.com/g/1Fyqimod))
 
 ##### Class Overview
 
-- Monday February 8: 
+- Monday February 8: Linear Algebra Notation
   - HW2 Due, February 9
 
-- Wednesday February 10: 
+- Wednesday February 10: Vectors Spaces + Projection Operators
 
-- Friday February 12: 
+- Friday February 12: BLUE + Gauss-Markov Theorem
 
 ---
 
