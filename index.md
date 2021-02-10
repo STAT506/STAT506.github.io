@@ -113,6 +113,62 @@
 #### Week Six: 
 
 ##### Weekly Materials
+- Suggested Reading: ROS CH. 16
+
+- Weekly Notes: Power and Simulated Sample Size Characteristics
+
+##### Class Overview
+
+- Monday February 15: __No Class President's Day__
+  - Project 1 Due, February 16
+
+- Wednesday February 17: Power and Simulated Sample Size Characteristics
+
+- Friday February 19: Project Presentations
+
+---
+
+#### Week Seven: 
+
+##### Weekly Materials
+- Suggested Reading: ROS CH. 22
+
+- Weekly Notes: Advanced Regression
+
+- Homework: HW3 due March 2
+
+##### Class Overview
+
+- Monday February 22
+
+- Wednesday February 24: 
+
+- Friday February 26: 
+
+---
+
+#### Week Eight: 
+
+##### Weekly Materials
+- Suggested Reading: ARM CH1 + ARM CH11
+
+- Weekly Notes: Hierarchical Models
+
+- Homework: HW4 due March 9
+
+##### Class Overview
+
+- Monday March 1:
+
+- Wednesday March 3:
+
+- Friday March 5:
+
+---
+
+#### Week Nine: 
+
+##### Weekly Materials
 - Suggested Reading: 
 
 - Weekly Notes: 
@@ -121,14 +177,147 @@
 
 ##### Class Overview
 
-- Monday February 15: __No Class President's Day__
-  - Project 1 Due, February 16
+- Monday March 8:
 
-- Wednesday February 17: 
+- Wednesday March 10:
 
-- Friday February 19: Project Presentations
+- Friday March 12:
 
 ---
+
+#### Week Ten: 
+
+##### Weekly Materials
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+- Homework: 
+
+##### Class Overview
+
+- Monday March 15:
+
+- Wednesday March 17:
+
+- Friday March 19:
+
+---
+
+#### Week Eleven: 
+
+##### Weekly Materials
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+- Homework: 
+
+##### Class Overview
+
+- Monday March 22:
+
+- Wednesday March 24:
+
+- Friday March 26:
+
+---
+
+#### Week Twelve: 
+
+##### Weekly Materials
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+- Homework: 
+
+##### Class Overview
+
+- Monday March 29:
+
+- Wednesday March 31:
+
+- Friday April 2: __no class, university day__
+
+---
+
+#### Week Thirteen: 
+
+##### Weekly Materials
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+- Homework: 
+
+##### Class Overview
+
+- Monday April 5:
+
+- Wednesday April 7:
+
+- Friday April 9: 
+
+---
+
+#### Week Fourteen: 
+
+##### Weekly Materials
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+- Homework: 
+
+##### Class Overview
+
+- Monday April 12:
+
+- Wednesday April 14:
+
+- Friday April 16: 
+
+---
+
+#### Week Fifteen: 
+
+##### Weekly Materials
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+- Homework: 
+
+##### Class Overview
+
+- Monday April 19:
+
+- Wednesday April 21:
+
+- Friday April 23: 
+
+---
+
+#### Week Sixteen: 
+
+##### Weekly Materials
+- Suggested Reading: 
+
+- Weekly Notes: 
+
+- Homework: 
+
+##### Class Overview
+
+- Monday April 26:
+
+- Wednesday April 28:
+
+- Friday April 30: 
+
+---
+
 
 #### Course Description
 
