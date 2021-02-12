@@ -118,7 +118,6 @@
 ##### Class Overview
 
 - Monday February 15: __No Class President's Day__
-  - Project 1 Due, February 16
 
 - Wednesday February 17: BLUE + Gauss-Markov Theorem
   - Project 1 Due at 5PM
