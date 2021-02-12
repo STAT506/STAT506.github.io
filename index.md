@@ -97,43 +97,43 @@
 
 - Weekly Notes: [PDF](https://github.com/STAT506/LinearAlgebra/blob/main/MoreLinearAlgebra.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/LinearAlgebra/main/MoreLinearAlgebra.Rmd))
 
-- Homework: [Project 1 Due February 16](https://github.com/STAT506/project_one/blob/main/Project1_Info.pdf) ([Download Repo](https://classroom.github.com/g/1Fyqimod))
+- Homework: [Project 1 Due Wednesday February 17 at 5PM](https://github.com/STAT506/project_one/blob/main/Project1_Info.pdf) ([Download Repo](https://classroom.github.com/g/1Fyqimod))
 
 ##### Class Overview
 
 - Monday February 8: Linear Algebra Notation
   - HW2 Due, February 9
 
-- Wednesday February 10: Vectors Spaces + Projection Operators
+- Wednesday February 10: Vectors Spaces 
 
-- Friday February 12: BLUE + Gauss-Markov Theorem
+- Friday February 12: Projection Operators + Covariance Matrices
 
 ---
 
 #### Week Six: 
 
 ##### Weekly Materials
-- Suggested Reading: ROS CH. 16
 
-- Weekly Notes: Power and Simulated Sample Size Characteristics
 
 ##### Class Overview
 
 - Monday February 15: __No Class President's Day__
   - Project 1 Due, February 16
 
-- Wednesday February 17: Power and Simulated Sample Size Characteristics
+- Wednesday February 17: BLUE + Gauss-Markov Theorem
+  - Project 1 Due at 5PM
 
 - Friday February 19: Project Presentations
+  - Project Slides 1 Due by 8AM. Email to instructor
 
 ---
 
 #### Week Seven: 
 
 ##### Weekly Materials
-- Suggested Reading: ROS CH. 22
+- Suggested Reading: ROS CH. 16
 
-- Weekly Notes: Advanced Regression
+- Weekly Notes: Power and Simulated Sample Size Characteristics
 
 - Homework: HW3 due March 2
 
@@ -150,9 +150,9 @@
 #### Week Eight: 
 
 ##### Weekly Materials
-- Suggested Reading: ARM CH1 + ARM CH11
+- Suggested Reading: ROS CH. 22
 
-- Weekly Notes: Hierarchical Models
+- Weekly Notes: Advanced Regression
 
 - Homework: HW4 due March 9
 
@@ -169,9 +169,9 @@
 #### Week Nine: 
 
 ##### Weekly Materials
-- Suggested Reading: 
+- Suggested Reading: ARM CH1 + ARM CH11
 
-- Weekly Notes: 
+- Weekly Notes: Hierarchical Models
 
 - Homework: 
 
