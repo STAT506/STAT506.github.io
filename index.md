@@ -136,6 +136,10 @@
 
 - Homework: HW3 due March 2
 
+- Virtual Materials:
+  - [R Shiny Video (from 408)](https://montana.techsmithrelay.com/TdIP)
+  - [R Shiny Lecture (from 408)](https://stat408.github.io/Lecture8/#/)
+
 ##### Class Overview
 
 - Monday February 22
