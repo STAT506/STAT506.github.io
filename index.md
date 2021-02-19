@@ -119,7 +119,7 @@
 
 - Monday February 15: __No Class President's Day__
 
-- Wednesday February 17: BLUE + Gauss-Markov Theorem
+- Wednesday February 17: OLS
   - Project 1 Due at 5PM
 
 - Friday February 19: Project Presentations
@@ -132,7 +132,7 @@
 ##### Weekly Materials
 - Suggested Reading: ROS CH. 16
 
-- Weekly Notes: Power and Simulated Sample Size Characteristics
+- Weekly Notes: [Power and Simulated Sample Size Characteristics](https://github.com/STAT506/Power_SampleSize/blob/main/SampleSize.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/Power_SampleSize/main/SampleSize.Rmd))
 
 - Homework: HW3 due March 2
 
@@ -142,9 +142,9 @@
 
 ##### Class Overview
 
-- Monday February 22
+- Monday February 22: BLUE + Gauss-Markov Theorem
 
-- Wednesday February 24: 
+- Wednesday February 24: Sample Size and Power
 
 - Friday February 26: 
 
