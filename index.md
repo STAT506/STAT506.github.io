@@ -134,8 +134,6 @@
 
 - Weekly Notes: [Power and Simulated Sample Size Characteristics](https://github.com/STAT506/Power_SampleSize/blob/main/SampleSize.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/Power_SampleSize/main/SampleSize.Rmd))
 
-- Homework: HW3 due March 2
-
 - Virtual Materials:
   - [R Shiny Video (from 408)](https://montana.techsmithrelay.com/TdIP)
   - [R Shiny Lecture (from 408)](https://stat408.github.io/Lecture8/#/)
@@ -144,9 +142,9 @@
 
 - Monday February 22: BLUE + Gauss-Markov Theorem
 
-- Wednesday February 24: Sample Size and Power
+- Wednesday February 24: Power
 
-- Friday February 26: 
+- Friday February 26: Sample Size Calculations + Shiny Overview
 
 ---
 
@@ -157,7 +155,7 @@
 
 - Weekly Notes: Advanced Regression
 
-- Homework: HW4 due March 9
+- Homework: HW3 due March 9
 
 ##### Class Overview
 
