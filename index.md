@@ -158,13 +158,15 @@
 
 - Homework: HW3 due March 9
 
+- Project 2: Advanced Regression Prediction
+
 ##### Class Overview
 
 - Monday March 1: Prediction and Tree Based Methods
 
-- Wednesday March 3:
+- Wednesday March 3: Gaussian Process Regression
 
-- Friday March 5:
+- Friday March 5: Regularization - LASSO & Ridge Regression
 
 ---
 
@@ -179,9 +181,9 @@
 
 ##### Class Overview
 
-- Monday March 8:
+- Monday March 8: BART and tree-based methods demo
 
-- Wednesday March 10:
+- Wednesday March 10: Intro to hierarchical models
 
 - Friday March 12:
 
@@ -190,7 +192,7 @@
 #### Week Ten: 
 
 ##### Weekly Materials
-- Suggested Reading: 
+- Suggested Reading:  ARM CH12
 
 - Weekly Notes: 
 
