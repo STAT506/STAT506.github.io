@@ -156,7 +156,7 @@
 - Weekly Notes: 
   - [Prediction and Tree Based Methods](https://github.com/STAT506/PredictiveModeling/blob/main/LecturePredModeling.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/LecturePredModeling.Rmd))
 
-- Homework: HW3 due March 9
+- Homework: [HW3 due March 9](https://github.com/STAT506/homework3) ([Download Repo](https://classroom.github.com/a/jQp97DBJ))
 
 - Project 2: Advanced Regression Prediction
 
@@ -182,6 +182,7 @@
 ##### Class Overview
 
 - Monday March 8: BART and tree-based methods demo
+  - HW 3 due March 9   
 
 - Wednesday March 10: Intro to hierarchical models
 
