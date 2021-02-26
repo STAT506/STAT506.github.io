@@ -153,13 +153,14 @@
 ##### Weekly Materials
 - Suggested Reading: ROS CH. 22
 
-- Weekly Notes: Advanced Regression
+- Weekly Notes: 
+  - [Prediction and Tree Based Methods](https://github.com/STAT506/PredictiveModeling/blob/main/LecturePredModeling.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/LecturePredModeling.Rmd))
 
 - Homework: HW3 due March 9
 
 ##### Class Overview
 
-- Monday March 1:
+- Monday March 1: Prediction and Tree Based Methods
 
 - Wednesday March 3:
 
