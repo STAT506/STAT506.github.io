@@ -155,6 +155,7 @@
 
 - Weekly Notes: 
   - [Prediction and Tree Based Methods](https://github.com/STAT506/PredictiveModeling/blob/main/LecturePredModeling.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/LecturePredModeling.Rmd))
+  - [Gaussian Process Regression](https://github.com/STAT506/GP_regression/blob/main/index.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GP_regression/main/index.Rmd))
 
 - Homework: [HW3 due March 9](https://github.com/STAT506/homework3) ([Download Repo](https://classroom.github.com/a/jQp97DBJ))
 
@@ -164,9 +165,9 @@
 
 - Monday March 1: Prediction and Tree Based Methods
 
-- Wednesday March 3: Gaussian Process Regression
+- Wednesday March 3: Tree Based Methods
 
-- Friday March 5: Regularization - LASSO & Ridge Regression
+- Friday March 5: Gaussian Process Regression
 
 ---
 
@@ -181,12 +182,12 @@
 
 ##### Class Overview
 
-- Monday March 8: BART and tree-based methods demo
+- Monday March 8: Regularization - LASSO & Ridge Regression 
   - HW 3 due March 9   
 
-- Wednesday March 10: Intro to hierarchical models
+- Wednesday March 10: BART and tree-based methods 
 
-- Friday March 12:
+- Friday March 12: Intro to hierarchical models
 
 ---
 
