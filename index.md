@@ -173,7 +173,9 @@
 #### Week Nine: 
 
 ##### Weekly Materials
-- Suggested Reading: [Regularization Tutorial: Data Camp](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
+- Suggested Reading: 
+  - [Regularization Tutorial: Data Camp](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
+  - [BART Paper](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-031219-041110)
 
 - Weekly Notes:
   - [Gaussian Process Regression](https://github.com/STAT506/GP_regression/blob/main/index.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GP_regression/main/index.Rmd))
