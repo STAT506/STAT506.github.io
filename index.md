@@ -155,46 +155,46 @@
 
 - Weekly Notes: 
   - [Prediction and Tree Based Methods](https://github.com/STAT506/PredictiveModeling/blob/main/LecturePredModeling.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/LecturePredModeling.Rmd))
-  - [Gaussian Process Regression](https://github.com/STAT506/GP_regression/blob/main/index.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GP_regression/main/index.Rmd))
 
-- Homework: [HW3 due March 9](https://github.com/STAT506/homework3) ([Download Repo](https://classroom.github.com/a/jQp97DBJ))
+- Homework: [HW3 due March 10](https://github.com/STAT506/homework3) ([Download Repo](https://classroom.github.com/a/jQp97DBJ))
 
 - Project 2: Advanced Regression Prediction
 
 ##### Class Overview
 
-- Monday March 1: Prediction and Tree Based Methods
+- Monday March 1: Prediction 
 
 - Wednesday March 3: Tree Based Methods
 
-- Friday March 5: Gaussian Process Regression
+- Friday March 5:Tree Based Methods
 
 ---
 
 #### Week Nine: 
 
 ##### Weekly Materials
-- Suggested Reading: ARM CH1 + ARM CH11
+- Suggested Reading: 
 
-- Weekly Notes: Hierarchical Models
+- Weekly Notes:
+  - [Gaussian Process Regression](https://github.com/STAT506/GP_regression/blob/main/index.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GP_regression/main/index.Rmd))
 
 - Homework: 
 
 ##### Class Overview
 
-- Monday March 8: Regularization - LASSO & Ridge Regression 
-  - HW 3 due March 9   
+- Monday March 8:  Gaussian Process Regression
 
-- Wednesday March 10: BART and tree-based methods 
-
-- Friday March 12: Intro to hierarchical models
+- Wednesday March 10: Regularization - LASSO & Ridge Regression 
+  - HW 3 due March 10   
+  - 
+- Friday March 12: BART and tree-based methods 
 
 ---
 
 #### Week Ten: 
 
 ##### Weekly Materials
-- Suggested Reading:  ARM CH12
+- Suggested Reading:  ARM CH1 + CH 11
 
 - Weekly Notes: 
 
@@ -202,7 +202,7 @@
 
 ##### Class Overview
 
-- Monday March 15:
+- Monday March 15: Intro to hierarchical models
 
 - Wednesday March 17:
 
@@ -213,7 +213,7 @@
 #### Week Eleven: 
 
 ##### Weekly Materials
-- Suggested Reading: 
+- Suggested Reading: ARM CH12
 
 - Weekly Notes: 
 
