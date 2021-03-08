@@ -180,7 +180,7 @@
 - Weekly Notes:
   - [Gaussian Process Regression](https://github.com/STAT506/GP_regression/blob/main/index.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GP_regression/main/index.Rmd))
   - [Regularization](https://github.com/STAT506/PredictiveModeling/blob/main/Regularization.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/Regularization.Rmd))
-- Homework: HW 4
+- Homework: HW 4 due March 16
 
 ##### Class Overview
 
@@ -205,6 +205,7 @@
 ##### Class Overview
 
 - Monday March 15: Intro to hierarchical models
+  - HW 4 due   
 
 - Wednesday March 17:
 
