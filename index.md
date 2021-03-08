@@ -173,12 +173,12 @@
 #### Week Nine: 
 
 ##### Weekly Materials
-- Suggested Reading: 
+- Suggested Reading: [Regularization Tutorial: Data Camp](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
 
 - Weekly Notes:
   - [Gaussian Process Regression](https://github.com/STAT506/GP_regression/blob/main/index.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GP_regression/main/index.Rmd))
-
-- Homework: 
+  - [Regularization](https://github.com/STAT506/PredictiveModeling/blob/main/Regularization.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/Regularization.Rmd))
+- Homework: HW 4
 
 ##### Class Overview
 
@@ -186,7 +186,7 @@
 
 - Wednesday March 10: Regularization - LASSO & Ridge Regression 
   - HW 3 due March 10   
-  - 
+
 - Friday March 12: BART and tree-based methods 
 
 ---
