@@ -158,7 +158,7 @@
 
 - Homework: [HW3 due March 10](https://github.com/STAT506/homework3) ([Download Repo](https://classroom.github.com/a/jQp97DBJ))
 
-- Project 2: Advanced Regression Prediction
+- Project 2: Advanced Regression Prediction ([Download Repo](https://classroom.github.com/g/Gvoo_M7O))
 
 ##### Class Overview
 
@@ -166,7 +166,7 @@
 
 - Wednesday March 3: Tree Based Methods
 
-- Friday March 5:Tree Based Methods
+- Friday March 5: Tree Based Methods
 
 ---
 
@@ -187,7 +187,7 @@
 - Monday March 8:  Gaussian Process Regression
 
 - Wednesday March 10: Regularization - LASSO & Ridge Regression 
-  - HW 3 due March 10   
+  - [HW3 due](https://github.com/STAT506/homework3) ([Download Repo](https://classroom.github.com/a/jQp97DBJ))   
 
 - Friday March 12: BART and tree-based methods 
 
