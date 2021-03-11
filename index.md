@@ -186,10 +186,10 @@
 
 - Monday March 8:  Gaussian Process Regression
 
-- Wednesday March 10: Regularization - LASSO & Ridge Regression 
+- Wednesday March 10: Gaussian Process Regression
   - [HW3 due](https://github.com/STAT506/homework3) ([Download Repo](https://classroom.github.com/a/jQp97DBJ))   
 
-- Friday March 12: BART and tree-based methods 
+- Friday March 12: Regularization - LASSO & Ridge Regression 
 
 ---
 
@@ -204,10 +204,10 @@
 
 ##### Class Overview
 
-- Monday March 15: Intro to hierarchical models
+- Monday March 15: BART and tree-based methods 
   - [HW 4 due](https://github.com/STAT506/homework_four/blob/main/HW4.md) ([Download Repo](https://classroom.github.com/a/VvinmDuJ))   
 
-- Wednesday March 17:
+- Wednesday March 17: Intro to hierarchical models
 
 - Friday March 19:
 
