@@ -207,7 +207,8 @@
 - Monday March 15: Regularization: LASSO __Virtual Lecture__
   - [HW 4 due](https://github.com/STAT506/homework_four/blob/main/HW4.md) ([Download Repo](https://classroom.github.com/a/VvinmDuJ))   
 
-- Wednesday March 17: BART 
+- Wednesday March 17: BART _Asynchronous Class_ 
+  - [Watch presentation by Carlos Carvalho: Bayesian Regression Tree Models for Causal Inference](https://www.youtube.com/watch?v=xm1CJCCNirY)
 
 - Friday March 19: Intro to hierarchical models
 
