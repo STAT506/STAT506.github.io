@@ -198,7 +198,7 @@
 ##### Weekly Materials
 - Suggested Reading:  ARM CH1 + CH 11
 
-- Weekly Notes: 
+- Weekly Notes: [Intro to Hierarchical Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH1_notes.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH1_notes.Rmd))
 
 - Homework: 
 
