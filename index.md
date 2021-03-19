@@ -222,7 +222,7 @@
   - [Multilevel Model Tutorial w/ rstanarm](https://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html)
 - Weekly Notes: [Multilevel Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH12.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH12.Rmd))
 
-- Homework: HW 5 due March 29
+- Homework: [HW 5 due March 29](https://stat506.github.io/homework_five/) ([Download Repo](https://classroom.github.com/a/GLKdcNtW))
 
 ##### Class Overview
 
@@ -246,7 +246,7 @@
 ##### Class Overview
 
 - Monday March 29:
-  - HW 5 due
+  - [HW 5 due](https://stat506.github.io/homework_five/) ([Download Repo](https://classroom.github.com/a/GLKdcNtW))
   - Project 2 pre-submission
 
 - Wednesday March 31:
