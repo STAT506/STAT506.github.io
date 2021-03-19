@@ -220,7 +220,7 @@
 - Suggested Reading: 
   - ARM CH12
   - [Multilevel Model Tutorial w/ rstanarm](https://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html)
-- Weekly Notes: 
+- Weekly Notes: [Multilevel Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH12.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH12.Rmd))
 
 - Homework: HW 5 due March 29
 
