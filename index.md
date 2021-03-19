@@ -217,11 +217,12 @@
 #### Week Eleven: 
 
 ##### Weekly Materials
-- Suggested Reading: ARM CH12
-
+- Suggested Reading: 
+  - ARM CH12
+  - [Multilevel Model Tutorial w/ rstanarm](https://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html)
 - Weekly Notes: 
 
-- Homework: 
+- Homework: HW 5 due March 29
 
 ##### Class Overview
 
@@ -245,11 +246,13 @@
 ##### Class Overview
 
 - Monday March 29:
+  - HW 5 due
+  - Project 2 pre-submission
 
 - Wednesday March 31:
 
 - Friday April 2: __no class, university day__
-
+  - Project 2 due
 ---
 
 #### Week Thirteen: 
