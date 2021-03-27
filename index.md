@@ -249,7 +249,7 @@
   - [HW 5 due](https://stat506.github.io/homework_five/) ([Download Repo](https://classroom.github.com/a/GLKdcNtW))
   - Project 2 pre-submission
 
-- Wednesday March 31:
+- Wednesday March 31: _[hierarchical models demo](https://github.com/STAT506/hm_demo/blob/main/HierarchicalModels_Demo.md)_
 
 - Friday April 2: __no class, university day__
   - Project 2 due
