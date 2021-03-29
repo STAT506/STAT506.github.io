@@ -241,7 +241,7 @@
 
 - Weekly Notes: 
 
-- Homework: 
+- Homework: [HW 6 due Wednesday April 7](https://stat506.github.io/homework_six/) ([Download Repo](https://classroom.github.com/a/kAxTQNyK))
 
 ##### Class Overview
 
@@ -251,8 +251,9 @@
 
 - Wednesday March 31: _[hierarchical models demo](https://github.com/STAT506/hm_demo/blob/main/HierarchicalModels_Demo.md)_
 
-- Friday April 2: __no class, university day__
+- Friday April 2: _no class, university day_
   - Project 2 due
+
 ---
 
 #### Week Thirteen: 
@@ -269,7 +270,8 @@
 - Monday April 5:
 
 - Wednesday April 7:
-
+  - [HW 6 due Wednesday April 7](https://stat506.github.io/homework_six/) ([Download Repo](https://classroom.github.com/a/kAxTQNyK))
+  
 - Friday April 9: 
 
 ---
