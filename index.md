@@ -226,11 +226,11 @@
 
 ##### Class Overview
 
-- Monday March 22:
+- Monday March 22: Intro to hierarchical Models
 
-- Wednesday March 24:
+- Wednesday March 24: Multilevel Models
 
-- Friday March 26:
+- Friday March 26: Multilevel Models
 
 ---
 
@@ -245,11 +245,11 @@
 
 ##### Class Overview
 
-- Monday March 29:
+- Monday March 29: Multilevel Models
   - [HW 5 due](https://stat506.github.io/homework_five/) ([Download Repo](https://classroom.github.com/a/GLKdcNtW))
   - Project 2 pre-submission
 
-- Wednesday March 31: _[hierarchical models demo](https://github.com/STAT506/hm_demo/blob/main/HierarchicalModels_Demo.md)_
+- Wednesday March 31: Multilevel Models
 
 - Friday April 2: _no class, university day_
   - Project 2 due
@@ -261,18 +261,18 @@
 ##### Weekly Materials
 - Suggested Reading: 
 
-- Weekly Notes: 
+- Weekly Notes: [hierarchical glms](https://github.com/STAT506/hier_glms/blob/main/Hier_GLM.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/hier_glms/main/Hier_GLM.Rmd)) 
 
 - Homework: 
 
 ##### Class Overview
 
-- Monday April 5:
+- Monday April 5: _[hierarchical models demo](https://github.com/STAT506/hm_demo/blob/main/HierarchicalModels_Demo.md)_
 
-- Wednesday April 7:
+- Wednesday April 7: hierarchical glms
   - [HW 6 due Wednesday April 7](https://stat506.github.io/homework_six/) ([Download Repo](https://classroom.github.com/a/kAxTQNyK))
   
-- Friday April 9: 
+- Friday April 9: Intro to Causal Inference
 
 ---
 
