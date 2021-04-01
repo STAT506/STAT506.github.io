@@ -292,6 +292,7 @@
 - Wednesday April 14:
 
 - Friday April 16: 
+  - [HW 7 due Friday April 16]
 
 ---
 
