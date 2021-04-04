@@ -259,10 +259,11 @@
 #### Week Thirteen: 
 
 ##### Weekly Materials
-- Suggested Reading: 
+- Suggested Reading: ROS Ch.18
 
-- Weekly Notes: [hierarchical glms](https://github.com/STAT506/hier_glms/blob/main/Hier_GLM.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/hier_glms/main/Hier_GLM.Rmd)) 
-
+- Weekly Notes: 
+  - [hierarchical glms](https://github.com/STAT506/hier_glms/blob/main/Hier_GLM.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/hier_glms/main/Hier_GLM.Rmd)) 
+  - [causal inference & designed experiments](https://github.com/STAT506/Causal_Inference/blob/main/DesignedExp.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Causal_Inference/main/DesignedExp.Rmd))
 - Homework: 
 
 ##### Class Overview
