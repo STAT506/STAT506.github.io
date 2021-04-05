@@ -259,12 +259,11 @@
 #### Week Thirteen: 
 
 ##### Weekly Materials
-- Suggested Reading: ROS Ch.18
+- Suggested Reading: 
 
 - Weekly Notes: 
   - [hierarchical glms](https://github.com/STAT506/hier_glms/blob/main/Hier_GLM.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/hier_glms/main/Hier_GLM.Rmd)) 
-  - [causal inference & designed experiments](https://github.com/STAT506/Causal_Inference/blob/main/DesignedExp.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Causal_Inference/main/DesignedExp.Rmd))
-- Homework: 
+ 
 
 ##### Class Overview
 
@@ -273,27 +272,28 @@
 - Wednesday April 7: hierarchical glms
   - [HW 6 due Wednesday April 7](https://stat506.github.io/homework_six/) ([Download Repo](https://classroom.github.com/a/kAxTQNyK))
   
-- Friday April 9: Intro to Causal Inference
+- Friday April 9: __no class: project 3 assigned__
 
 ---
 
 #### Week Fourteen: 
 
 ##### Weekly Materials
-- Suggested Reading: 
+- Suggested Reading: ROS Ch.18
 
 - Weekly Notes: 
+  - [causal inference & designed experiments](https://github.com/STAT506/Causal_Inference/blob/main/DesignedExp.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Causal_Inference/main/DesignedExp.Rmd))
 
 - Homework: 
 
 ##### Class Overview
 
-- Monday April 12:
+- Monday April 12: Intro to Causal Inference
 
 - Wednesday April 14:
 
 - Friday April 16: 
-  - [HW 7 due Friday April 16]
+  - project 3 assigned
 
 ---
 
