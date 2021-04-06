@@ -293,7 +293,7 @@
 - Wednesday April 14:
 
 - Friday April 16: 
-  - project 3 assigned
+  - project 3 due
 
 ---
 
