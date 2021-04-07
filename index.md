@@ -272,7 +272,8 @@
 - Wednesday April 7: hierarchical glms
   - [HW 6 due Wednesday April 7](https://stat506.github.io/homework_six/) ([Download Repo](https://classroom.github.com/a/kAxTQNyK))
   
-- Friday April 9: __no class: project 3 assigned__
+- Friday April 9: __no class__: 
+  - [project 3 assigned](https://github.com/STAT506/Project3/blob/main/Final_Writeup_key.pdf) ([Download Repo](https://classroom.github.com/a/li8WBzak))
 
 ---
 
@@ -293,7 +294,7 @@
 - Wednesday April 14:
 
 - Friday April 16: 
-  - project 3 due
+  - [project 3 due](https://github.com/STAT506/Project3/blob/main/Final_Writeup_key.pdf) ([Download Repo](https://classroom.github.com/a/li8WBzak))
 
 ---
 
