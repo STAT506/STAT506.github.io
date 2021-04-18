@@ -319,16 +319,12 @@
 
 #### Week Sixteen: 
 
-##### Weekly Materials
-- Suggested Reading: 
 
-- Weekly Notes: 
-
-- Homework: 
 
 ##### Class Overview
 
 - Monday April 26:
+  - [Final Exam Due](https://github.com/STAT506/finalexam/blob/main/Final_S2021.pdf) ([Download Repo](https://classroom.github.com/a/jTT2p_fn))
 
 - Wednesday April 28:
 
