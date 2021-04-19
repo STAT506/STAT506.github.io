@@ -304,6 +304,7 @@
 - Suggested Reading: 
 
 - Weekly Notes: 
+  - [More Causal Inference](https://github.com/STAT506/Causal_Inference/blob/main/CausualRegression2.pdf) ([RMD Source Code](https://github.com/STAT506/Causal_Inference/blob/main/CausualRegression2.Rmd))
 
 - Homework: 
 
