@@ -305,6 +305,7 @@
 
 - Weekly Notes: 
   - [More Causal Inference](https://github.com/STAT506/Causal_Inference/blob/main/CausualRegression2.pdf) ([RMD Source Code](https://github.com/STAT506/Causal_Inference/blob/main/CausualRegression2.Rmd))
+  - [Observational Studies](https://github.com/STAT506/Causal_Inference/blob/main/observationStudy.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Causal_Inference/main/observationStudy.Rmd))
 
 - Homework: 
 
