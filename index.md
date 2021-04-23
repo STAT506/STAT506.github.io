@@ -325,12 +325,12 @@
 
 ##### Class Overview
 
-- Monday April 26:
+- Monday April 26: _virtual office hour_
   - [Final Exam Due](https://github.com/STAT506/finalexam/blob/main/Final_S2021.pdf) ([Download Repo](https://classroom.github.com/a/jTT2p_fn))
 
-- Wednesday April 28:
+- Wednesday April 28: _project 3 discussion_
 
-- Friday April 30: 
+- Friday April 30: _final exam discussion_
 
 ---
 
