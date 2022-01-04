@@ -2,7 +2,7 @@
 
 This course will continue wrap up linear models and generalized linear models from STAT505, including a more detailed look at the underlying linear algebra. In addition, the course will present advanced regression techniques including hierarchical models.
 
-To view a PDF of the course syllabus, follow this link: [PDF Syllabus](https://github.com/STAT506/syllabus/raw/main/syllabus2021.pdf).
+To view a PDF of the course syllabus, follow this link: [PDF Syllabus](https://github.com/STAT506/syllabus/raw/main/syllabus2022.pdf).
 
 ### Office Hours
 
@@ -49,17 +49,18 @@ For additional resources see:
 
 #### Grading Policy
 
-- **30%** of your grade will be determined by weekly homework assignments. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to complete their own homework. 
+- **10%** of your grade will be determined by weekly quizzes. Students are allowed and encouraged to work with classmates on quiz assignments, but each student is required to submit their own quiz. All quizzes will be graded on pass / fail basis.
+
+- **30%** of your grade will be determined by regular homework. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to submit their own homework.
+
+- **30%** of your grade will be determined by a series of projects. There will be two or three projects over the course of the semester.
 
 - **30%** of your grade will be determined by a final exam.
-
-- **40%** of your grade will be determined by a series of projects. The projects will be due roughly every 3 - 4 weeks during the course of the semester and may require oral presentations.
-
 
 #### Collaboration
 University policy states that, unless otherwise specified, students may not collaborate on graded material. Any exceptions to this policy will be stated explicitly for individual assignments. If you have any questions about the limits of collaboration, you are expected to ask for clarification.
 
-In this class students are encouraged to collaborate on homework assignments, but exams and projects should be completed without collaboration.
+In this class students are encouraged to collaborate on quizzes and homework assignments, but exams and projects should be completed without collaboration.
 
 ####  Academic Misconduct
 Section 420 of the Student Conduct Code describes academic misconduct as including but not limited to plagiarism, cheating, multiple submissions, or facilitating others’ misconduct. Possible sanctions for academic misconduct range from an oral reprimand to expulsion from the university.
@@ -86,11 +87,11 @@ Please evaluate your own health status regularly and refrain from attending clas
 
 #### Course Communication
 
-In the event that one or more students and/or the instructor are required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2l.
+In the event that the instructor is required to quarantine or if the university moves courses online, the course may need to continue in a virtual format. Communication about how the course will proceed will be available through D2L and Microsoft Teams.
 
-#### Virtual Attendance
+#### Recorded Lectures
 
-Due to the ongoing pandemic and issues stemming from this, a synchronous virtual attendance option will be permitted for this course. The Microsoft Teams platform will be used for this virtual option. When attending virtually, if at all possible, please plan to have your video camera turned on.
+Due to the ongoing pandemic and issues stemming from this, all course lectures will be recorded and made available as soon as possible.
 
 ### Approximate Course Outline
 
