@@ -51,9 +51,9 @@ For additional resources see:
 
 - **10%** of your grade will be determined by weekly quizzes. Students are allowed and encouraged to work with classmates on quiz assignments, but each student is required to submit their own quiz. All quizzes will be graded on pass / fail basis.
 
-- **30%** of your grade will be determined by regular homework. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to submit their own homework.
+- **30%** of your grade will be determined by regular homework. Students are allowed and encouraged to work with classmates on homework assignments, but each student is required to submit their own homework. There will likely be  5 - 6 homework assignments over the course of the semester.
 
-- **30%** of your grade will be determined by a series of projects. There will be two or three projects over the course of the semester.
+- **30%** of your grade will be determined by a series of projects. There will be two or three projects over the course of the semester: likely one on GLMS, on for predictive modeling, and a final for hierarchical models.
 
 - **30%** of your grade will be determined by a final exam.
 
@@ -152,9 +152,6 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
   - [Latent Data GLMs](https://github.com/STAT506/GLM_Lectures/blob/main/OtherGLMS.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/OtherGLMS.Rmd))
   - [Ordinal Regression](https://github.com/STAT506/GLM_Lectures/blob/main/Ordinal.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/Ordinal.Rmd))
 
-- Homework: [HW 1 PDF Due February 2](https://github.com/STAT506/HW1/blob/master/HW1.pdf) ([Download GitHub Repo](https://classroom.github.com/a/4JjsQHi8))
-
-- Project: [Project 1 Overview](https://github.com/STAT506/project_one/blob/main/Project1_Info.pdf)
 ##### Class Overview
 
 - Monday January 31: 
@@ -177,9 +174,6 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
   - [Mixture Models](https://github.com/STAT506/GLM_Lectures/blob/main/CompoundModels.pdf) ([RMD Source](https://github.com/STAT506/GLM_Lectures/blob/main/CompoundModels.Rmd))
   - [Linear Algebra Notation](https://github.com/STAT506/LinearAlgebra/blob/main/LinearAlgebraNotation.pdf) ([RMD Source](https://github.com/STAT506/LinearAlgebra/blob/main/LinearAlgebraNotation.Rmd))
 
-- Homework: [HW 2 PDF Due February 9](https://github.com/STAT506/homework2/blob/main/HW2.pdf) ([Download Repo](https://classroom.github.com/a/ntRos6a-))
-
-- Project: [Project 1 Overview](https://github.com/STAT506/project_one/blob/main/Project1_Info.pdf)
 ##### Class Overview
 
 - Monday February 7: 
@@ -198,7 +192,6 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 
 - Weekly Notes: [PDF](https://github.com/STAT506/LinearAlgebra/blob/main/MoreLinearAlgebra.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/LinearAlgebra/main/MoreLinearAlgebra.Rmd))
 
-- Homework: [Project 1 Due Wednesday February 17 at 5PM](https://github.com/STAT506/project_one/blob/main/Project1_Info.pdf) ([Download Repo](https://classroom.github.com/g/1Fyqimod))
 
 ##### Class Overview
 
@@ -232,10 +225,6 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 
 - Weekly Notes: [Power and Simulated Sample Size Characteristics](https://github.com/STAT506/Power_SampleSize/blob/main/SampleSize.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/Power_SampleSize/main/SampleSize.Rmd))
 
-- Virtual Materials:
-  - [R Shiny Video (from 408)](https://montana.techsmithrelay.com/TdIP)
-  - [R Shiny Lecture (from 408)](https://stat408.github.io/Lecture8/#/)
-
 ##### Class Overview
 
 - Monday February 28:
@@ -254,9 +243,6 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 - Weekly Notes: 
   - [Prediction and Tree Based Methods](https://github.com/STAT506/PredictiveModeling/blob/main/LecturePredModeling.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/LecturePredModeling.Rmd))
 
-- Homework: [HW3 due March 10](https://github.com/STAT506/homework3) ([Download Repo](https://classroom.github.com/a/jQp97DBJ))
-
-- Project 2: Advanced Regression Prediction ([Download Repo](https://classroom.github.com/g/Gvoo_M7O))
 
 ##### Class Overview
 
@@ -278,7 +264,6 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 - Weekly Notes:
   - [Gaussian Process Regression](https://github.com/STAT506/GP_regression/blob/main/index.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GP_regression/main/index.Rmd))
   - [Regularization](https://github.com/STAT506/PredictiveModeling/blob/main/Regularization.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/Regularization.Rmd))
-- Homework: [HW 4 due March 16](https://github.com/STAT506/homework_four/blob/main/HW4.md) ([Download Repo](https://classroom.github.com/a/VvinmDuJ))
 
 ##### Class Overview
 
@@ -297,7 +282,6 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 
 - Weekly Notes: [Intro to Hierarchical Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH1_notes.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH1_notes.Rmd))
 
-- Homework: 
 
 ##### Class Overview
 
@@ -317,8 +301,6 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
   - [Multilevel Model Tutorial w/ rstanarm](https://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html)
 - Weekly Notes: [Multilevel Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH12.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH12.Rmd))
 
-- Homework: [HW 5 due March 29](https://stat506.github.io/homework_five/) ([Download Repo](https://classroom.github.com/a/GLKdcNtW))
-
 ##### Class Overview
 
 - Monday March 28: 
@@ -336,7 +318,6 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 
 - Weekly Notes: 
 
-- Homework: [HW 6 due Wednesday April 7](https://stat506.github.io/homework_six/) ([Download Repo](https://classroom.github.com/a/kAxTQNyK))
 
 ##### Class Overview
 
@@ -396,7 +377,6 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
   - [More Causal Inference](https://github.com/STAT506/Causal_Inference/blob/main/CausualRegression2.pdf) ([RMD Source Code](https://github.com/STAT506/Causal_Inference/blob/main/CausualRegression2.Rmd))
   - [Observational Studies](https://github.com/STAT506/Causal_Inference/blob/main/observationStudy.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Causal_Inference/main/observationStudy.Rmd))
 
-- Homework: 
 
 ##### Class Overview
 
