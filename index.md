@@ -1,7 +1,4 @@
 
-
-## Course Schedule
-
 #### Week One: Course Introduction
 
 ##### Weekly Materials
