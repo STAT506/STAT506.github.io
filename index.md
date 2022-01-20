@@ -126,6 +126,7 @@ Due to the ongoing pandemic and issues stemming from this, all course lectures w
 
 ##### Weekly Materials
 - Suggested Reading: ROS Chapter 15.1 - Chapter 15.2
+- [Quiz 1](https://stat506.github.io/Quiz1/) Due EOD Thursday. ([Download GitHub Repo](https://classroom.github.com/a/rpTYJqzI)
 
 - Weekly Notes:   
     - [GLM Recap](https://github.com/STAT506/IntroLectures/blob/main/GLM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/GLM_intro.Rmd))
