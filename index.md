@@ -43,6 +43,7 @@
 - Suggested Reading: 
   - ROS Chapter 15.3
   - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
+  - [Quiz 2](https://stat506.github.io/Quiz2/) Due EOD Thursday. ([Download GitHub Repo](https://classroom.github.com/a/rRfDhUlM))
 
 - Weekly Notes: 
   - [Latent Data GLMs](https://github.com/STAT506/GLM_Lectures/blob/main/OtherGLMS.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/OtherGLMS.Rmd))
