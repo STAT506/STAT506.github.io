@@ -21,7 +21,7 @@
 
 ##### Weekly Materials
 - Suggested Reading: ROS Chapter 15.1 - Chapter 15.2
-- [Quiz 1](https://stat506.github.io/Quiz1/) Due EOD Thursday. ([Download GitHub Repo](https://classroom.github.com/a/rpTYJqzI)
+- [Quiz 1](https://stat506.github.io/Quiz1/) Due EOD Thursday. ([Download GitHub Repo](https://classroom.github.com/a/rpTYJqzI))
 
 - Weekly Notes:   
     - [GLM Recap](https://github.com/STAT506/IntroLectures/blob/main/GLM_intro.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/IntroLectures/main/GLM_intro.Rmd))
@@ -43,7 +43,7 @@
 - Suggested Reading: 
   - ROS Chapter 15.3
   - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
-  - [Quiz 2](https://stat506.github.io/Quiz2/) Due EOD Thursday. ([Download GitHub Repo](https://classroom.github.com/a/rRfDhUlM))
+  - [Quiz 2](https://stat506.github.io/quiz2/) Due EOD Thursday. ([Download GitHub Repo](https://classroom.github.com/a/rRfDhUlM))
 
 - Weekly Notes: 
   - [Latent Data GLMs](https://github.com/STAT506/GLM_Lectures/blob/main/OtherGLMS.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/OtherGLMS.Rmd))
