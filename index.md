@@ -65,6 +65,9 @@
 - Suggested Reading: 
   - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
   - Boik Chapter 7 & 8
+  - Quiz 3 Due EOD Thursday. 
+  - HW 1 Due EOD Thursday.
+
 
 - Weekly Notes: 
   - [Ordinal Regression](https://github.com/STAT506/GLM_Lectures/blob/main/Ordinal.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/Ordinal.Rmd))
@@ -74,7 +77,7 @@
 ##### Class Overview
 
 - Monday February 7: 
-- 
+
 - Wednesday February 9: 
 
 - Friday February 11: 
@@ -86,6 +89,8 @@
 ##### Weekly Materials
 - Suggested Reading: 
   - Boik Chapter 11, Chapter 14, Chapter 16
+- Quiz 4 Due EOD Thursday. 
+
 
 - Weekly Notes: [PDF](https://github.com/STAT506/LinearAlgebra/blob/main/MoreLinearAlgebra.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/LinearAlgebra/main/MoreLinearAlgebra.Rmd))
 
@@ -103,6 +108,8 @@
 #### Week Six: 
 
 ##### Weekly Materials
+- Quiz 5 Due EOD Thursday. 
+- Project 1 Due EOD Thursday
 
 
 ##### Class Overview
