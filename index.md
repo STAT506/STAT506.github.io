@@ -65,7 +65,7 @@
 - Suggested Reading: 
   - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
   - Boik Chapter 7 & 8
-  - Quiz 3 Due EOD Thursday. 
+  - [Quiz 3](https://github.com/STAT506/quiz3/blob/main/Quiz3.pdf) ([Download GitHub Repo](https://classroom.github.com/a/i7T1gDJ6)) Due EOD Thursday. 
   - [HW 1](https://github.com/STAT506/homework1/blob/main/HW1_2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/D1Xof8CN)) Due EOD Thursday.
 
 
