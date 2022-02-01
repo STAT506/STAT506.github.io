@@ -66,7 +66,7 @@
   - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
   - Boik Chapter 7 & 8
   - Quiz 3 Due EOD Thursday. 
-  - HW 1 Due EOD Thursday.
+  - [HW 1](https://github.com/STAT506/homework1/blob/main/HW1_2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/D1Xof8CN)) Due EOD Thursday.
 
 
 - Weekly Notes: 
