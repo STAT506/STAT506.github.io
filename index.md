@@ -47,7 +47,6 @@
 
 - Weekly Notes: 
   - [Latent Data GLMs](https://github.com/STAT506/GLM_Lectures/blob/main/OtherGLMS.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/OtherGLMS.Rmd))
-  - [Ordinal Regression](https://github.com/STAT506/GLM_Lectures/blob/main/Ordinal.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/Ordinal.Rmd))
 
 ##### Class Overview
 
@@ -63,8 +62,6 @@
 
 ##### Weekly Materials
 - Suggested Reading: 
-  - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
-  - Boik Chapter 7 & 8
   - [Quiz 3](https://github.com/STAT506/quiz3/blob/main/Quiz3.pdf) ([Download GitHub Repo](https://classroom.github.com/a/i7T1gDJ6)) Due EOD Thursday. 
   - [HW 1](https://github.com/STAT506/homework1/blob/main/HW1_2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/D1Xof8CN)) Due EOD Thursday.
 
@@ -88,7 +85,8 @@
 
 ##### Weekly Materials
 - Suggested Reading: 
-  - Boik Chapter 11, Chapter 14, Chapter 16
+  - Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
+
 - Quiz 4 Due EOD Thursday. 
 
 
@@ -97,7 +95,7 @@
 
 ##### Class Overview
 
-- Monday February 14: 
+- Monday February 14: __No Class: Attend Statistics Seminar__
 
 - Wednesday February 16:
 
