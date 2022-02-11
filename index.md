@@ -63,7 +63,7 @@
 ##### Weekly Materials
 - Suggested Reading: 
   - [Quiz 3](https://github.com/STAT506/quiz3/blob/main/Quiz3.pdf) ([Download GitHub Repo](https://classroom.github.com/a/i7T1gDJ6)) Due EOD Thursday Feb 10. ([Quiz 3 key](https://github.com/STAT506/quiz3/blob/main/Quiz3key.pdf))
-  - [HW 1](https://github.com/STAT506/homework1/blob/main/HW1_2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/D1Xof8CN)) Due EOD Thursday Feb 10.
+  - [HW 1](https://github.com/STAT506/homework1/blob/main/HW1_2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/D1Xof8CN)) Due EOD Thursday Feb 10. ([HW 1 key](https://github.com/STAT506/homework1/blob/main/HW1_2022key.pdf))
 
 
 - Weekly Notes: 
