@@ -87,7 +87,6 @@
 - Suggested Reading: 
   - Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
 
-- Quiz 4 Due EOD Thursday. 
 - [Quiz 4](https://github.com/STAT506/quiz4/blob/main/Quiz4.pdf) ([Download GitHub Repo](https://classroom.github.com/a/x7PAayRc)) Due EOD Thursday Feb 17. 
 
 
