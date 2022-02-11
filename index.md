@@ -43,7 +43,7 @@
 - Suggested Reading: 
   - ROS Chapter 15.3
   - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
-  - [Quiz 2](https://stat506.github.io/quiz2/) Due EOD Thursday. ([Download GitHub Repo](https://classroom.github.com/a/rRfDhUlM))
+  - [Quiz 2](https://stat506.github.io/quiz2/) Due EOD Thursday. ([Download GitHub Repo](https://classroom.github.com/a/rRfDhUlM)) ([Quiz2 key](https://github.com/STAT506/quiz2/blob/main/Quiz2.pdf))
 
 - Weekly Notes: 
   - [Latent Data GLMs](https://github.com/STAT506/GLM_Lectures/blob/main/OtherGLMS.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/OtherGLMS.Rmd))
@@ -62,7 +62,7 @@
 
 ##### Weekly Materials
 - Suggested Reading: 
-  - [Quiz 3](https://github.com/STAT506/quiz3/blob/main/Quiz3.pdf) ([Download GitHub Repo](https://classroom.github.com/a/i7T1gDJ6)) Due EOD Thursday Feb 10. 
+  - [Quiz 3](https://github.com/STAT506/quiz3/blob/main/Quiz3.pdf) ([Download GitHub Repo](https://classroom.github.com/a/i7T1gDJ6)) Due EOD Thursday Feb 10. ([Quiz 3 key](https://github.com/STAT506/quiz3/blob/main/Quiz3key.pdf))
   - [HW 1](https://github.com/STAT506/homework1/blob/main/HW1_2022.pdf) ([Download GitHub Repo](https://classroom.github.com/a/D1Xof8CN)) Due EOD Thursday Feb 10.
 
 
