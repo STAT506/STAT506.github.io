@@ -106,8 +106,8 @@
 #### Week Six: 
 
 ##### Weekly Materials
-- Quiz 5 Due EOD Thursday. 
-- Project 1 Due EOD Thursday
+- ~~Quiz 5 Due EOD Thursday.~~ 
+- Project 1 Due EOD Thursday Feb 24
 
 
 ##### Class Overview
