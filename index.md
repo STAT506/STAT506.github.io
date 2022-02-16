@@ -107,7 +107,7 @@
 
 ##### Weekly Materials
 - ~~Quiz 5 Due EOD Thursday.~~ 
-- Project 1 Due EOD Thursday Feb 24
+- [Project 1](https://github.com/STAT506/project_1/blob/main/Project1.pdf) ([Download GitHub Repo](https://classroom.github.com/a/P7ffHYnI)) Due EOD Thursday Feb 24
 
 
 ##### Class Overview
