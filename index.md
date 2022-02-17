@@ -69,7 +69,6 @@
 - Weekly Notes: 
   - [Ordinal Regression](https://github.com/STAT506/GLM_Lectures/blob/main/Ordinal.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GLM_Lectures/main/Ordinal.Rmd))
   - [Mixture Models](https://github.com/STAT506/GLM_Lectures/blob/main/CompoundModels.pdf) ([RMD Source](https://github.com/STAT506/GLM_Lectures/blob/main/CompoundModels.Rmd))
-  - [Linear Algebra Notation](https://github.com/STAT506/LinearAlgebra/blob/main/LinearAlgebraNotation.pdf) ([RMD Source](https://github.com/STAT506/LinearAlgebra/blob/main/LinearAlgebraNotation.Rmd))
 
 ##### Class Overview
 
@@ -85,12 +84,12 @@
 
 ##### Weekly Materials
 - Suggested Reading: 
-  - Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
+  - [Ordinal Regression with Stan](http://mc-stan.org/rstanarm/articles/polr.html)
 
 - [Quiz 4](https://github.com/STAT506/quiz4/blob/main/Quiz4.pdf) ([Download GitHub Repo](https://classroom.github.com/a/x7PAayRc)) Due EOD Thursday Feb 17. 
 
+  - [Linear Algebra Notation](https://github.com/STAT506/LinearAlgebra/blob/main/LinearAlgebraNotation.pdf) ([RMD Source](https://github.com/STAT506/LinearAlgebra/blob/main/LinearAlgebraNotation.Rmd))
 
-- Weekly Notes: [PDF](https://github.com/STAT506/LinearAlgebra/blob/main/MoreLinearAlgebra.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/LinearAlgebra/main/MoreLinearAlgebra.Rmd))
 
 
 ##### Class Overview
@@ -108,6 +107,8 @@
 ##### Weekly Materials
 - ~~Quiz 5 Due EOD Thursday.~~ 
 - [Project 1](https://github.com/STAT506/project_1/blob/main/Project1.pdf) ([Download GitHub Repo](https://classroom.github.com/a/P7ffHYnI)) Due EOD Thursday Feb 24
+
+- [More Linear Algebra](https://github.com/STAT506/LinearAlgebra/blob/main/MoreLinearAlgebra.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/LinearAlgebra/main/MoreLinearAlgebra.Rmd))
 
 
 ##### Class Overview
