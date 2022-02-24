@@ -124,6 +124,8 @@
 #### Week Seven: 
 
 ##### Weekly Materials
+- [Quiz 5](https://github.com/STAT506/quiz5/blob/main/Quiz5.pdf) ([Download GitHub Repo](https://classroom.github.com/a/ratjUohT)) Due EOD Thursday March 3. 
+
 - Suggested Reading: ROS CH. 16
 
 - Weekly Notes: [Power and Simulated Sample Size Characteristics](https://github.com/STAT506/Power_SampleSize/blob/main/SampleSize.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/Power_SampleSize/main/SampleSize.Rmd))
