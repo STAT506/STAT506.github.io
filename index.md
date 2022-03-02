@@ -143,6 +143,9 @@
 #### Week Eight: 
 
 ##### Weekly Materials
+- Quiz 6 Due EOD Thursday March 10. 
+- [HW2](https://stat506.github.io/HWtwo/) ([Download GitHub Repo](https://classroom.github.com/a/uQsCtiLA)) Due EOD Thursday March 10. 
+
 - Suggested Reading: 
   - [Regularization Tutorial: Data Camp](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
   - [BART Paper](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-031219-041110)
@@ -171,7 +174,7 @@
 - Monday March 14:  __spring break__
 
 - Wednesday March 16: __spring break__
-- 
+
 - Friday March 18: __spring break__
 
 ---
