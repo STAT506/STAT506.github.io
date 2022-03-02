@@ -128,7 +128,7 @@
 
 - Suggested Reading: ROS CH. 16
 
-- Weekly Notes: [Power and Simulated Sample Size Characteristics](https://github.com/STAT506/Power_SampleSize/blob/main/SampleSize.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/Power_SampleSize/main/SampleSize.Rmd))
+  - [Prediction and Tree Based Methods](https://github.com/STAT506/PredictiveModeling/blob/main/LecturePredModeling.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/LecturePredModeling.Rmd))
 
 ##### Class Overview
 
@@ -143,10 +143,13 @@
 #### Week Eight: 
 
 ##### Weekly Materials
-- Suggested Reading: ROS CH. 22
+- Suggested Reading: 
+  - [Regularization Tutorial: Data Camp](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
+  - [BART Paper](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-031219-041110)
 
-- Weekly Notes: 
-  - [Prediction and Tree Based Methods](https://github.com/STAT506/PredictiveModeling/blob/main/LecturePredModeling.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/LecturePredModeling.Rmd))
+- Weekly Notes:
+  - [Gaussian Process Regression](https://github.com/STAT506/GP_regression/blob/main/index.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GP_regression/main/index.Rmd))
+  - [Regularization](https://github.com/STAT506/PredictiveModeling/blob/main/Regularization.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/Regularization.Rmd))
 
 
 ##### Class Overview
@@ -162,13 +165,6 @@
 #### Week Nine: 
 
 ##### Weekly Materials
-- Suggested Reading: 
-  - [Regularization Tutorial: Data Camp](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
-  - [BART Paper](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-031219-041110)
-
-- Weekly Notes:
-  - [Gaussian Process Regression](https://github.com/STAT506/GP_regression/blob/main/index.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GP_regression/main/index.Rmd))
-  - [Regularization](https://github.com/STAT506/PredictiveModeling/blob/main/Regularization.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/Regularization.Rmd))
 
 ##### Class Overview
 
@@ -185,7 +181,10 @@
 ##### Weekly Materials
 - Suggested Reading:  ARM CH1 + CH 11
 
-- Weekly Notes: [Intro to Hierarchical Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH1_notes.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH1_notes.Rmd))
+- Weekly Notes: [Power and Simulated Sample Size Characteristics](https://github.com/STAT506/Power_SampleSize/blob/main/SampleSize.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/Power_SampleSize/main/SampleSize.Rmd))
+
+
+- [Intro to Hierarchical Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH1_notes.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH1_notes.Rmd))
 
 
 ##### Class Overview
