@@ -143,7 +143,7 @@
 #### Week Eight: 
 
 ##### Weekly Materials
-- Quiz 6 Due EOD Thursday March 10. 
+- [Quiz 6](https://github.com/STAT506/quiz6/blob/main/Quiz6.md) ([Download GitHub Repo](https://classroom.github.com/a/gnUDpiDo)) Due EOD Thursday March 10. 
 - [HW2](https://stat506.github.io/HWtwo/) ([Download GitHub Repo](https://classroom.github.com/a/uQsCtiLA)) Due EOD Thursday March 10. 
 
 - Suggested Reading: 
