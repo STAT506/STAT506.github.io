@@ -182,12 +182,11 @@
 #### Week Ten: 
 
 ##### Weekly Materials
-- Suggested Reading:  ARM CH1 + CH 11
+- Project 2 Due EOD Thursday March 24.
 
 - Weekly Notes: [Power and Simulated Sample Size Characteristics](https://github.com/STAT506/Power_SampleSize/blob/main/SampleSize.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/Power_SampleSize/main/SampleSize.Rmd))
 
 
-- [Intro to Hierarchical Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH1_notes.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH1_notes.Rmd))
 
 
 ##### Class Overview
@@ -203,10 +202,17 @@
 #### Week Eleven: 
 
 ##### Weekly Materials
+- Quiz 7 (Shiny app) Due EOD Thursday March 31. 
+- HW3 (Stan) Due EOD Thursday March 31. 
+
+
 - Suggested Reading: 
   - ARM CH12
   - [Multilevel Model Tutorial w/ rstanarm](https://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html)
-- Weekly Notes: [Multilevel Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH12.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH12.Rmd))
+- Weekly Notes: 
+  - [Intro to Hierarchical Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH1_notes.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH1_notes.Rmd))
+
+  - [Multilevel Models](https://github.com/STAT506/Hierarchical_Models/blob/main/CH12.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Hierarchical_Models/main/CH12.Rmd))
 
 ##### Class Overview
 
