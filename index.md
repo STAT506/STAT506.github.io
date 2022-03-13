@@ -152,8 +152,7 @@
 
 - Weekly Notes:
   - [Gaussian Process Regression](https://github.com/STAT506/GP_regression/blob/main/index.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/GP_regression/main/index.Rmd))
-  - [Regularization](https://github.com/STAT506/PredictiveModeling/blob/main/Regularization.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/Regularization.Rmd))
-
+ 
 
 ##### Class Overview
 
@@ -167,10 +166,6 @@
 
 #### Week Nine: 
 
-##### Weekly Materials
-
-##### Class Overview
-
 - Monday March 14:  __spring break__
 
 - Wednesday March 16: __spring break__
@@ -182,11 +177,12 @@
 #### Week Ten: 
 
 ##### Weekly Materials
-- Project 2 Due EOD Thursday March 24.
+- [Project 2 Due EOD Thursday March 24](https://github.com/STAT506/Project_Two/blob/main/Project2_Info.pdf) ([Download GitHub Repo](https://classroom.github.com/a/0MsJjdK9)).
 
-- Weekly Notes: [Power and Simulated Sample Size Characteristics](https://github.com/STAT506/Power_SampleSize/blob/main/SampleSize.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/Power_SampleSize/main/SampleSize.Rmd))
+- Weekly Notes: 
+  - [Regularization](https://github.com/STAT506/PredictiveModeling/blob/main/Regularization.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/Regularization.Rmd))
 
-
+  - [Power and Simulated Sample Size Characteristics](https://github.com/STAT506/Power_SampleSize/blob/main/SampleSize.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/Power_SampleSize/main/SampleSize.Rmd))
 
 
 ##### Class Overview
