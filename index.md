@@ -177,7 +177,7 @@
 #### Week Ten: 
 
 ##### Weekly Materials
-- [Project 2 Due EOD Thursday March 24](https://github.com/STAT506/Project_Two/blob/main/Project2_Info.pdf) ([Download GitHub Repo](https://classroom.github.com/a/0MsJjdK9)).
+- [Project 2 Due EOD Sunday March 27](https://github.com/STAT506/Project_Two/blob/main/Project2_Info.pdf) ([Download GitHub Repo](https://classroom.github.com/a/0MsJjdK9)).
 
 - Weekly Notes: 
   - [Regularization](https://github.com/STAT506/PredictiveModeling/blob/main/Regularization.pdf) ([RMD Source](https://raw.githubusercontent.com/STAT506/PredictiveModeling/main/Regularization.Rmd))
@@ -198,8 +198,6 @@
 #### Week Eleven: 
 
 ##### Weekly Materials
-- Quiz 7 (Shiny app) Due EOD Thursday March 31. 
-- HW3 (Stan) Due EOD Thursday March 31. 
 
 
 - Suggested Reading: 
@@ -226,6 +224,8 @@
 - Suggested Reading: 
 
 - Weekly Notes: 
+- Quiz 7 (Shiny app) 
+- HW3 (Stan) 
 
 
 ##### Class Overview
