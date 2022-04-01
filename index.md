@@ -224,8 +224,7 @@
 - Suggested Reading: 
 
 - Weekly Notes: 
-- Quiz 7 (Shiny app) 
-- HW3 (Stan) 
+- [HW3](https://stat506.github.io/HW3_2022/) ([Download GitHub Repo](https://classroom.github.com/a/8M8MHFXc))
 
 
 ##### Class Overview
