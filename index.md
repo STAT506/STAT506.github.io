@@ -224,7 +224,7 @@
 - Suggested Reading: 
 
 - Weekly Notes: 
-- [HW3](https://stat506.github.io/HW3_2022/) ([Download GitHub Repo](https://classroom.github.com/a/8M8MHFXc))
+- [HW3](https://stat506.github.io/HW3_2022/) ([Download GitHub Repo](https://classroom.github.com/a/8M8MHFXc)) Due EOD Thursday April 7
 
 
 ##### Class Overview
@@ -233,7 +233,7 @@
 
 - Wednesday April 6:
 
-- Friday April 8: __No Class__, work on [Stein Paradox HW](https://github.com/STAT506/HW4_Stein/blob/main/HW4_Stein.pdf) ([Download GitHub Repo](https://classroom.github.com/a/pJiRnViA)) 
+- Friday April 8: __No Class__, work on [Stein Paradox HW](https://github.com/STAT506/HW4_Stein/blob/main/HW4_Stein.pdf) ([Download GitHub Repo](https://classroom.github.com/a/pJiRnViA)) Due EOD Thursday April 14
 
 ---
 
@@ -302,7 +302,7 @@
 
 ##### Class Overview
 
-- Monday May 2: 
+- Monday May 2: Take Home Final Exam Due
 
 - Wednesday May 4:
 
