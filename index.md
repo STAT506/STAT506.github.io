@@ -292,7 +292,7 @@
 
 - Wednesday April 27:
 
-- Friday April 29: 
+- Friday April 29: In Class Final Exam Review
 
 ---
 
