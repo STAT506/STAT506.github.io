@@ -233,7 +233,7 @@
 
 - Wednesday April 6:
 
-- Friday April 8: 
+- Friday April 8: __No Class__, work on [Stein Paradox HW](https://github.com/STAT506/HW4_Stein/blob/main/HW4_Stein.pdf) ([Download GitHub Repo](https://classroom.github.com/a/pJiRnViA)) 
 
 ---
 
