@@ -230,7 +230,7 @@
 ##### Class Overview
 
 - Monday April 4: 
-- 
+
 - Wednesday April 6:
 
 - Friday April 8: 
@@ -312,6 +312,7 @@
 
 #### Week Seventeen: Finals Week
 
+- Monday May 9, 10 - 11:50: Project 3 presentation  
 
 
 ##### Class Overview
