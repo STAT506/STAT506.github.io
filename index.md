@@ -272,7 +272,7 @@
 
 - Wednesday April 20:
 
-- Friday April 22: 
+- Friday April 22: __STAN Demo__
 
 ---
 
@@ -304,7 +304,7 @@
 
 - Monday May 2: Take Home Final Exam Due
 
-- Wednesday May 4:
+- Wednesday May 4: __Writing Project Presentation Idea Meeting__
 
 - Friday May 6: 
 
