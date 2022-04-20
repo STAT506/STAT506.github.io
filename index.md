@@ -260,6 +260,7 @@
 
 ##### Weekly Materials
 - [HW5](https://github.com/STAT506/homework_5/blob/main/HW5.md) ([Download GitHub Repo](https://classroom.github.com/a/bQE8mQz2)) Due Thursday April 21
+- [Quiz7](https://stat506.github.io/Quiz7/) ([Download GitHub Repo](https://classroom.github.com/a/UfWEOroM)) Due Monday April 25
 - Weekly Notes: 
   - [causal inference & designed experiments](https://github.com/STAT506/Causal_Inference/blob/main/DesignedExp.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Causal_Inference/main/DesignedExp.Rmd))
   - [causal inference & regression](https://github.com/STAT506/Causal_Inference/blob/main/CausualRegression.pdf) ([RMD Source Code](https://raw.githubusercontent.com/STAT506/Causal_Inference/main/CausualRegression.Rmd))
