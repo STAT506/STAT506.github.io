@@ -302,7 +302,7 @@
 
 ##### Class Overview
 
-- Monday May 2: Take Home Final Exam Due, In class final exam
+- Monday May 2: Take Home Final Exam Due, In class final exam ([OLD TAKE HOME EXAM](https://github.com/STAT506/finalexam/blob/main/Final_S2021.pdf))
 
 - Wednesday May 4: __Writing Project Presentation Idea Meeting__
 
