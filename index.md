@@ -272,7 +272,7 @@
 
 - Wednesday April 20:
 
-- Friday April 22: __STAN Demo__
+- Friday April 22: [STAN Demo](https://github.com/STAT506/Stan) ([Download GitHub Repo](https://classroom.github.com/a/NGiBewd2))
 
 ---
 
