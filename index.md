@@ -288,7 +288,7 @@
 
 ##### Class Overview
 
-- Monday April 25:
+- Monday April 25: [Take Home Final Exam](https://github.com/STAT506/Final_2022) ([Download GitHub Repo](https://classroom.github.com/a/y1NcwJTl))
 
 - Wednesday April 27:
 
