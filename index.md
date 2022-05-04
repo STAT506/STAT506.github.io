@@ -312,7 +312,7 @@
 
 #### Week Seventeen: Finals Week
 
-- Monday May 9, 10 - 11:50: [Project 3 presentation](https://github.com/STAT506/project_three/blob/main/Project3_Info.pdf)
+- Monday May 9, 10 - 11:50: [Project 3 presentation](https://github.com/STAT506/project_three/blob/main/Project3_Info.pdf) ([Download GitHub Repo](https://classroom.github.com/a/ynyvTXTr))
 
 
 ##### Class Overview
